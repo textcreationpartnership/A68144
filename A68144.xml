@@ -1,0 +1,1039 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Foure letters, and certaine sonnets especially touching Robert Greene, and other parties, by him abused: but incidently of diuers excellent persons, and some matters of note. To all courteous mindes, that will voutchsafe the reading.</title>
+            <author>Harvey, Gabriel, 1550?-1631.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1592</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 138 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68144</idno>
+            <idno type="STC">STC 12900.5</idno>
+            <idno type="STC">ESTC S103854</idno>
+            <idno type="EEBO-CITATION">99839598</idno>
+            <idno type="PROQUEST">99839598</idno>
+            <idno type="VID">4033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 4033)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 961:10 or 1853:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Foure letters, and certaine sonnets especially touching Robert Greene, and other parties, by him abused: but incidently of diuers excellent persons, and some matters of note. To all courteous mindes, that will voutchsafe the reading.</title>
+                  <author>Harvey, Gabriel, 1550?-1631.</author>
+               </titleStmt>
+               <extent>[2], 38, 41-75, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by Iohn Wolfe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1592.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The author's name, Gabriel Harvey, appears throughout the text.</note>
+                  <note>An enlarged edition of: Three letters, and certaine sonnets.</note>
+                  <note>A reply particularly to Greene's "A quip for an upstart courtier", which had attacked Harvey and his brothers.</note>
+                  <note>R. Robinson printed quires C-E. Cf. STC.</note>
+                  <note>Signatures: A-I⁴ K² . Leaves A1-2, quires H, I, and leaf L2 were printed from standing type from STC 12900; see "The Library", fourth series, 15 (1935), p. 212-23.</note>
+                  <note>Identified as STC 12900 on UMI microfilm reel 961.</note>
+                  <note>Reproductions of the originals in the British Library and the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Appears at reel 961 (British Library copy) and at reel 1853 (Henry E. Huntington Library and Art Gallery copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Greene, Robert, 1558?-1592. --  Quip for an upstart courtier.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:4033:1"/>
+            <pb facs="tcp:4033:1" rendition="simple:additions"/>
+            <p>FOVRE LETTERS, and certaine Sonnets: <hi>Eſpecially touching</hi> Robert Greene, <hi>and other parties, by him abuſed:</hi> But incidently of diuers excellent perſons, and ſome matters of note. <hi>To all courteous mindes, that will voutchſafe the reading.</hi>
+            </p>
+            <figure>
+               <p>IL VOSTRO MALIGNARE NON GIOVA NVLLA</p>
+            </figure>
+            <p>LONDON Imprinted by Iohn Wolfe, 1592.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:4033:2"/>
+            <head>The particular Contents.</head>
+            <list>
+               <item>A Preface to Courteous mindes.</item>
+               <item>A Letter to M. Emmanuell Demetrius: with a Sonnet annexed.</item>
+               <item>A Letter to M. Chriſtopher Bird.</item>
+               <item>A Letter to euery fauourable, or indifferent Reader.</item>
+               <item>An other Letter, to The-ſame: extorted after the reſt.</item>
+               <item>Greenes Memoriall: or certaine Funerall Sonnets.</item>
+               <item>Two Latine Epitaphes: the one of M. Greene: the other of M. Iohn Haruey.</item>
+               <item>A Sonnet of M. Spencer to M. Doctor Haruey.</item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:4033:2"/>
+            <head>To all courteous mindes, that will voutchſafe the readinge.</head>
+            <p>MAy I craue pardon at this instant, aſwell for enditinge, that is vnwoorthy to be publiſhed, as for publiſhing, that was vn<g ref="char:EOLhyphen"/>worthy to be endi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed: I wil hereafter take preciſe order, either ne<g ref="char:EOLhyphen"/>uer to importune you more, or to ſollicite you for more eſpeciall cauſe. I was firſt exceeding loath to penne, that is written: albcit in mine owne enforced defence, (for I make no difference betwene my decreſt frendes, and my ſelfe:) and am now much loather to diuulge, that is imprinted: albeit againſt thoſe, whoſe owne Pam<g ref="char:EOLhyphen"/>flets are readier to condemne them, then my Letters forwarde to accuſe them. Vile actes would in ſome reſpectes, rather be concea<g ref="char:EOLhyphen"/>led, then recorded: as the darkeneſſe of the Night better ſitteth the nature of ſome vnlucky birdes, then the brightneſſe of the day: and <hi>Heroſtiatus</hi> in a villanous brauery, affectinge a moſt-noto<g ref="char:EOLhyphen"/>rious, &amp; monſtrous Fame, was in the cenſure of the wiſeſt Iudg<g ref="char:EOLhyphen"/>mentes, rather to be ouerwhelmed in the deepeſt pitt of Obliuion, then to enioy any relique, or ſhadow of his owne deſperate glory. But <hi>Greene</hi> (although pitifully blaſted, &amp; how woefully faded?) still flouriſheth in the memory of ſome greene wits, wedded to the wantonneſſe of their owne fancy, and inamored vppon euery new<g ref="char:EOLhyphen"/>fangled toy: and <hi>Pierce Pennyleſſe</hi> (although the Diuels Ora<g ref="char:EOLhyphen"/>tour by profeſſion, and his Dammes Poet by practiſe) in ſuch a fluſh of notable good fellowes, cannot poſsibly want many to reade him: enough to excuſe him: a few to commende him: ſoome to beleue him; or to credite any, that tickeleth the right veine, and feedeth the riotous humour of their licentious vanity. To ſtop the beginning, is no bad purpoſe: wher the end may proue pernitious, or perillous. Venome is venome, and will infect: when the Dra<g ref="char:EOLhyphen"/>gons Head ſpitteth poiſon, what miſchiefe may lurke in the Dra<g ref="char:EOLhyphen"/>gons Taile? If any diſtreſſe be miſerable, diffamation is intolle<g ref="char:EOLhyphen"/>rable:
+<pb facs="tcp:4033:3"/>
+eſpecially to mindes, that would rather deſerue iust commen<g ref="char:EOLhyphen"/>dation, then be any way blemiſhed with vniuſt ſlaunder. They that vſe to ſpeake well of other: and endeuour to doe w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll them<g ref="char:EOLhyphen"/>ſelues: (the defectes of diſhability are not to be imputed to ende<g ref="char:EOLhyphen"/>uour) would be ſory to heare amiſſe, without cauſe of complaint, or ſuſpition: and he that like a Lacedemonian, or Romane, accoun<g ref="char:EOLhyphen"/>teth Infamy worſe then death, would be loath to emproue his cou<g ref="char:EOLhyphen"/>rage, or to employ his patience, in digeſtinge the peſtilent Bane of his life. That is doone, cannot <hi>de facto</hi> be vndone: but I appeale to Wiſedome, how diſcreetely; and to Iuſtice, how deſeruedly it is done: and requeſt the one, to do vs reaſon, in ſhame of Impuden<g ref="char:EOLhyphen"/>cy: and beſeech the other to do vs right, in reproach of Calumny. It was my intention, ſo to demeane my ſelfe in the whole, and ſo to temper my stile in euery part: that I might neither ſeme blinde<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with affection, nor enraged with paſsion: nor partiall to frend, nor preiudiciall to enemy: nor iniurious to the worſt, nor offenſiue to any: but mildly &amp; calmely ſhew, how diſcredite reboundeth vpon the autors: as duſt flyeth back into the wags Eyes, that will nedes be puffing it vp. Which if I haue altogether attained, without the leaſt ouerſight of diſtempered phraſe, I am the gladder: if failed in ſome few incident termes, (what Tounge, or Pen may not ſlipp in heat of diſcourſe?) I hope, a little will not greatly breake the ſquare, either of my good meaning with humanity, or of your good acceptation with indifferency. Fauour, is a courteous Reader, &amp; a gratious Patron: and no man loueth fauour, wher it is to be lo<g ref="char:EOLhyphen"/>ued; or honoureth it, where it is to be honoured, more affectionat<g ref="char:EOLhyphen"/>ly, then I: yet here I neither deſire fauour toward louingeſt frend: nor wiſh disfauour toward ſpitefulleſt foe: but onely requeſt reaſon toward both: and ſo briefly recommend both to your foreſaid In<g ref="char:EOLhyphen"/>differency: as to an equall ballance of vpright Iudgement.</p>
+            <closer>
+               <dateline>Lon<g ref="char:EOLhyphen"/>don: <date>this 16. of September.</date>
+               </dateline>
+               <signed>Your thankefull dettour G. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="letter">
+            <pb n="3" facs="tcp:4033:3"/>
+            <head>The Firſt Letter.</head>
+            <head type="sub">To the worſhipfull, my very good frend <hi>M. Emmanuell Deme<g ref="char:EOLhyphen"/>trius,</hi> at his houſe by the Church in Lime<g ref="char:EOLhyphen"/>ſtreete in London.</head>
+            <p>MAſter <hi>Demetrius,</hi> I earneſtly commend this bearer M. Doctor <hi>Haruey,</hi> my good frend, vnto you: being a ve<g ref="char:EOLhyphen"/>ry excellent generall Scholler. Who is deſirous of your ac<g ref="char:EOLhyphen"/>quaintance and friendſhip, eſpecially for the ſight of ſome of your antiquities &amp; monuments: and alſo for ſome con<g ref="char:EOLhyphen"/>ference touching the ſtate of forraine countries: as your leiſure may conueniently ſerue. You ſhall aſſuredly find the Gentleman very honeſt, and thankefull: and me ready to reacq uite your courteſie and fauour to him ſo ſhewen, in that I poſſibly may. And ſo with the remembrance of my hartyrecommendations, with like thankes for your two letters of forreine newes, receiued the laſt weeke: I com<g ref="char:EOLhyphen"/>mitte you to the Protection of the Almighty.</p>
+            <closer>
+               <dateline>Walden <date>this 29. of Auguſt 1592.</date>
+               </dateline>
+
+               <signed>Your louing frend Chriſtopher Bird.</signed>
+            </closer>
+            <postscript>
+               <p>In ſteed of other nouels, I ſende you my opinion, in a plaine, but true Sonnet, vpon the famous new worke, inti<g ref="char:EOLhyphen"/>tuled, <hi>A Quippe for an vpſtart Courtier;</hi> or forſooth, <hi>A quaint Diſpute betweene Veluet-breechcs, and Cloth-breeches:</hi> as fan<g ref="char:EOLhyphen"/>taſticall and fond a Dialogue, as I haue ſeene: and for ſome particulars, one of the moſt licentious, and intollerable In<g ref="char:EOLhyphen"/>uectiues, that euer I read. Wherein the leawd fellow, and impudent rayler, in an odious and deſperate moode, with<g ref="char:EOLhyphen"/>out any other cauſe, or reaſon; amongſt ſondry other per<g ref="char:EOLhyphen"/>ſons notoriouſly deffamed, moſt ſpitefully and villanouſly abuſeth an auncient neighbour of mine, one M. <hi>Haruey,</hi> a right honeſt man of good reckoninge; and one that aboue
+<pb n="4" facs="tcp:4033:4"/>
+twenty yeres ſince bare the chi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>feſt office in Walden with good credite: and hath mainetained foure ſonnes in <hi>Cam<g ref="char:EOLhyphen"/>bridge</hi> and elſe where with gre<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t charges: all ſufficiently a<g ref="char:EOLhyphen"/>ble to aunſweare for themſelues: and three, (in ſpite of ſome few <hi>Greenes)</hi> vniuerſally well reputed in both Vniuer<g ref="char:EOLhyphen"/>ſities, and through the whole Re<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lme. Whereof one retur<g ref="char:EOLhyphen"/>ning ſicke from <hi>Norwich</hi> to <hi>Li me,</hi> in Iuly l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt, w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt ſence of any ſuch malicious iniury, before the public<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion of th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t vile Pamphlet. <hi>Liuor poſt fata quieſcat: &amp; benè à ſingulis au<g ref="char:EOLhyphen"/>diant, qui omnibus volunt benè.</hi>
+               </p>
+               <lg>
+                  <head>A due Commendation of the Quipping Autor.</head>
+                  <l>GREENE <hi>the Connycatcher, of this Dreame the Autor,</hi>
+                  </l>
+                  <l>
+                     <hi>For his dainty deuiſe, deſerueth the hauter.</hi>
+                  </l>
+                  <l>
+                     <hi>A rakehell: A makeſhift: A ſcribling ſoole:</hi>
+                  </l>
+                  <l>
+                     <hi>A famous bayard in Citty, and Schoole.</hi>
+                  </l>
+                  <l>
+                     <hi>Now ſicke, as a Dog: and euer braineſick:</hi>
+                  </l>
+                  <l>
+                     <hi>Where ſuch a rauing, and deſperate Dick?</hi>
+                  </l>
+                  <l>
+                     <hi>Sir reuerence, A ſcuruy Maſter of Art,</hi>
+                  </l>
+                  <l>
+                     <hi>Aunſweared inough with a Doctors fart.</hi>
+                  </l>
+                  <l>
+                     <hi>He ſcornes other Aunſweare: and Enuy ſalutes</hi>
+                  </l>
+                  <l>
+                     <hi>VVith ſho<g ref="char:punc">▪</g> teſt vowels, and with longeſt mutes.</hi>
+                  </l>
+                  <l>
+                     <hi>For farther tri all, himſelf he referres</hi>
+                  </l>
+                  <l>
+                     <hi>To proofe, and ſound iudgement, that ſeldome erres.</hi>
+                  </l>
+                  <l>
+                     <hi>Now good Robin-good-fellow, and gentle Greeneſleeues.</hi>
+                  </l>
+                  <l>
+                     <hi>Giue him leaue to be quiet, that none aggreeues.</hi>
+                  </l>
+                  <l>Miſerrima Fortuna, quae caret inimico.</l>
+               </lg>
+            </postscript>
+         </div>
+         <div n="2" type="letter">
+            <pb n="5" facs="tcp:4033:4"/>
+            <head>The Second Letter.</head>
+            <head type="sub">To my louing frend, Maiſter Chriſtopher Bird of VValden.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Aiſter <hi>Bird,</hi> in the abſence of M. <hi>Deme<g ref="char:EOLhyphen"/>trius,</hi> I deliuered your letter vnto his wife, whome I found very courteous. My next buſineſſe was to enquire after the famous Author: who was reported to lye dan<g ref="char:EOLhyphen"/>gerouſly ſicke in a ſhoemakers houſe neere Dow-gate: not of the plague, or the pockes, as a Gentleman ſaide, but of a ſurfett of pickle herringe and renniſh wine, or as ſome ſuppoſe<g ref="char:punc">▪</g> of an ex<g ref="char:EOLhyphen"/>ceeding fe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re. For in his extreameſt want, he offered ten, or rather<g ref="char:punc">▪</g>then faile twenty ſhillinges to the printer (a huge ſom with him at that inſtant) to leaue out the matter of the three brothers: with confeſſion of his great feare to be cal<g ref="char:EOLhyphen"/>led <hi>Coram</hi> for thoſe forged imputations. A conſcious mind, and vndaunted hart, ſeldome dwell together: hee was not the firſt, that bewrayed, &amp; puniſhed his owne guil<g ref="char:EOLhyphen"/>tines, with bluſhing for ſhame, or trembling for dread, or drouping for woe. Many can heape miſery inough vppon their owne heads: and neede no more penalty, but, their owne contrition, and the Cenſure of other. I would not wiſh a ſworne enimie to bee more baſely valued, or more vilely reputed, then the common voice of the cittie eſtee<g ref="char:EOLhyphen"/>meth him, that ſought Fame by diffamation of other, but hath vtterly diſcredited himſelfe: and is notoriouſly grown a very prouerbe of Infamy, and contempt. I little delight in the rehearſall of ſuch paltrye: but who like <hi>Elderton</hi> for Ballating: <hi>Greene</hi> for pamphletting: both, for goodfellow<g ref="char:EOLhyphen"/>ſhip, and bad conditions? Rayling was the Ypocras of the drunken rimeſter: and Quipping the Marchepane of the madde libeller. They ſcape faire, that goe ſcot-free in ſuch
+<pb n="6" facs="tcp:4033:5"/>
+ſawcy reckoninges: I haue knowne ſome, read of many, and heard of more, that wantonly quipped other, &amp; ſound<g ref="char:EOLhyphen"/>ly nipped themſelues. The hoatteſt bloud of choller may be cooled: and as the fierceſt fury of wild-fire, ſo the fier<g ref="char:EOLhyphen"/>ceſt wild-fire of Fury, conſumeth it ſelfe. Howbeit a com<g ref="char:EOLhyphen"/>mon miſchiefe would be preuented: and it generally con<g ref="char:EOLhyphen"/>cerneth all, and particularly behooueth euery one, to looke about him, when he heareth the belles ringing backward, and ſeeth the fire running forward: and beholdeth euen Death in perſon, ſhooting his peremptory boltes. You vn<g ref="char:EOLhyphen"/>derſtand me without a Gloſſe: and here is matter inough for a new ciuill war, or ſhall I ſay for a new Troyan ſiedge, if this poore Letter ſhould fortune to come in print. I deale directly: and will plainly tell you my fancy, if <hi>Titius</hi> con<g ref="char:EOLhyphen"/>tinue to vpbraid <hi>Caius</hi> with euery thing, &amp; nothing. I nei<g ref="char:EOLhyphen"/>ther name Martin-mar-prelate: nor ſhame Papp wyth a hatchet: nor mention any other, but <hi>Elderton,</hi> and <hi>Greene:</hi> two notorious mates, &amp; the very ringleaders of the riming, and ſcribbling crew. But <hi>Titius,</hi> or rather <hi>Zoilus</hi> in his ſpite<g ref="char:EOLhyphen"/>full vaine, will ſo long flurt at <hi>Homer:</hi> and <hi>Therſites</hi> in his peeuiſh moode, ſo long fling at <hi>Agamemnon;</hi> that they wil become extremely odious &amp; intollerable to all good Lear<g ref="char:EOLhyphen"/>ning, and ciuill Gouernement: and in attempting to pull downe, or diſgrace other without order, muſt needes fi<g ref="char:EOLhyphen"/>nally ouerthrow themſelues without relief. Oratours haue challenged a ſpeciall Liberty: and Poets claimed an abſo<g ref="char:EOLhyphen"/>lute Licence: but no Liberty without boundes: nor any Licence without limitation. Inuectiues by fauour haue bene too bolde: and Satyres by vſurpation too-preſump<g ref="char:EOLhyphen"/>tuous: I ouerpaſſe <hi>Archilochus, Ariſtophanes, Lucian, Iulian, Aretine,</hi> and that whole venemous and viperous brood, of old &amp; new Raylers: euen <hi>Tully,</hi> and <hi>Horace</hi> otherwhiles
+<pb n="7" facs="tcp:4033:5"/>
+ouer-reched: and I muſt needes ſay, Mother Hubbard in heat of choller, forgetting the pure ſanguine of her ſweete Feary Queene, wilfully ouer-ſhott her malcontented ſelfe: as elſewhere I haue ſpecified at larg, with the good leaue of vnſpotted friendſhipp. Examples in ſome ages doe ex<g ref="char:EOLhyphen"/>ceeding-much hurt. <hi>Saluſt,</hi> and <hi>Clodius</hi> learned of <hi>Tully,</hi> to frame artificiall Declamations, &amp; patheticall Inuectiues againſt <hi>Tully</hi> himſelfe, and other worthy members of that moſt-floriſhing State: if mother Hubbard in the vaine of <hi>Chawcer,</hi> happen to tel one Canicular tale; father <hi>Elderton,</hi> and his ſonne <hi>Greene,</hi> in the vaine of <hi>Skelton,</hi> or <hi>Scoggin,</hi> will counterfeitan hundred dogged Fables, Libles, Ca<g ref="char:EOLhyphen"/>lumnies, Slaunders, Lies for <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he whetſtone, what not, &amp; moſt curriſhly ſnarle, &amp; bite where they ſhould moſt kind<g ref="char:EOLhyphen"/>ly fawne, and licke. Euery priuate exceſſe is daungerous: but ſuch publike enormities, incredibly pernitious, and inſuportable: and who can tell, what huge outrages might amount of ſuch quarrellous, and tumultuous cauſes? Ho<g ref="char:EOLhyphen"/>nour is precious: worſhip of value: Fame inualuable: they perillouſly threaten the Commonwealth, that goe<g ref="char:EOLhyphen"/>about to violate the inuiolable partes thereof. Many will ſooner looſe their liues, then the leaſt Iott of their reputa<g ref="char:EOLhyphen"/>tion. Lord, what mortall feudes, what furious combats, what cruell bloudſhed, what horrible ſlaughterdome haue bene committed, for the point of Honour, and ſome few Courtly cerimonies? Though meaner perſons do not ſo highly ouerpriſe their credite; yet who taketh not diſ<g ref="char:EOLhyphen"/>courteſie vnkindly, or ſlaunder diſpleaſingly? For mine owne part, I am to make an vſe, of my aduerſaries abuſe: and will endeuour to reforme any default, where of I may iuſtly, or probably be empeached. Some Emulation hoth already done me good: both for ſupply of great imper<g ref="char:EOLhyphen"/>fections:
+<pb n="8" facs="tcp:4033:6"/>
+&amp; for encreaſe of ſmall perfections. I haue, and who hath not, found it better, to be tickled &amp; ſtinged of a buſy ennemy: then to be coyed, &amp; lulled of an idle frend. <hi>Plutarch</hi> is grauely wiſe: &amp; <hi>Macchiauell</hi> ſubtilly politike: but in either of them, what ſounder, or finer piece of cunning, then to reape commodity by him, that ſeeketh my diſplea<g ref="char:EOLhyphen"/>ſure: &amp; to play vpon the aduauntage of his detection of my infirmities? Other cauilling, or mote-ſpying Malice con<g ref="char:EOLhyphen"/>foundeth it ſelfe: &amp; I continue my accuſtomed ſimplicity, to aunſwere vanity with ſilence: though peraduenture not without daunger of inuiting a newe iniury, by intertaining an old. Patience hath trained mee to pocket-vp more hai<g ref="char:EOLhyphen"/>nous indignities: &amp; euen to digeſt an age of Iron. They that can doe little, muſt be contented to ſuffer much. My betters neede not take it grieuouſly, to be taunted, or reproched in that booke, where Saint Peter, &amp; Chriſt himſelfe are Lucianically &amp; ſcoffingly alleadged: the one for begging, the other for graunting A fooliſh boone; (pretended euer ſince the fatall deſtiny of the gentle crafte.) Some men wil haue their fwinge, &amp; their bugges-woordes, though it be againſt all Gods-forbid: &amp; what Ceſars might, or Catoes integrity, or what Saints deuotion can ſtop ſuch mouths? yet neither themſelues the better: nor other the woorſe: that depend not on their allowance, but rely on their owne iuſtification: and deſire to confute their impudency not with words, but with deeds. Howbeit I am not to preiu<g ref="char:EOLhyphen"/>dice my Brother aliue: or to ſmoother the wrong, offered to my Brother deceaſed: or to tollerate the leaſt diffama<g ref="char:EOLhyphen"/>tion of my good Father<g ref="char:punc">▪</g> whome no illwiller could euer touch with any diſhoneſty, or diſcredite in any ſort. No<g ref="char:EOLhyphen"/>thing more deere, or ineſtimable, then a mans good name: &amp; albeit I contemne ſuch pelting iniuries, vainely deuiſed
+<pb n="9" facs="tcp:4033:6"/>
+againſt my ſelfe, yet am I not to neglecte ſo intollerable a wrong, ſo notoriouſly pubiſhed againſt them. There is law for deſperateſt out-lawes: &amp; order for moſt diſorderly fellowes. They that cannot gouerne themſelues, muſt bee ruled by other; and pay for their folly. Whiles I was thus, or to like effecte, reſoluing with my ſelfe, and diſcourſing with ſome ſpeciall frendes: not onely writing vnto you" I was ſuddainely certified, that the king of the paper ſtage (ſo the Gentleman tearmed <hi>Greene)</hi> had played his laſt part, &amp; was gone to <hi>Tarleton:</hi> whereof I proteſt, I was nothing glad, as was expected, but vnfainedly ſory: aſwell becauſe I could haue wiſhed, he had taken his leaue with a more charitable farewell: as alſo becauſe I was depriued of that remedy in Law, that I entended againſt him, in the behalfe of my Father, whoſe honeſt reputation I was in many due<g ref="char:EOLhyphen"/>ties to tender. Yet to ſome conceited witt, that could take delight to diſcouer knaueries, or were a fitte perſon to aug<g ref="char:EOLhyphen"/>ment the hiſtory of Conny-catchers: O Lord, what a pre<g ref="char:EOLhyphen"/>gnant occaſion were here preſented, to diſplay leaud vani<g ref="char:EOLhyphen"/>ty in his liuely coullours, &amp; to decipher the very miſteries of that baſe Arte? Petty Cooſeners are not woorth the na<g ref="char:EOLhyphen"/>ming: he they ſay, was the Monarch of Crosbiters, and the very Emperour of ſhifters. I was altogether vnaquain<g ref="char:EOLhyphen"/>ted with the man, &amp; neuer once ſaluted him by name: but who in London hath not heard of his diſſolute, and licen<g ref="char:EOLhyphen"/>tious liuing; his fonde diſguiſinge of a Maſter of Arte with ruffianly haire, vnſeemely apparell, and more vnſeemelye Company: his vaineglorious and Thraſonicall brauinge: his piperly Extemporizing, and Tarletonizing; his apiſhe counterfeiting of euery ridiculous, and abſurd toy: his fine cooſening of Iuglers, and finer iugling with cooſeners: hys villainous cogging, and foiſting; his monſtrous ſwearinge,
+<pb n="10" facs="tcp:4033:7"/>
+and horrible forſwearing; his impious profaning of ſacred Textes: his other ſcandalous, and blaſphemous rauinge; his riotous, and outragious ſurfeitinge: his continuall ſhif<g ref="char:EOLhyphen"/>ting of lodginges: his plauſible muſteringe, and banquet<g ref="char:EOLhyphen"/>tinge of royſterly acquaintaunce at his firſt comminge; his beggarly departing in euery hoſtiſſes debt; his infamous re<g ref="char:EOLhyphen"/>ſorting to the Banckeſide, Shorditch, Southwarke, and o<g ref="char:EOLhyphen"/>ther filthy hauntes: his obſcure lurkinge in baſeſt corners: his pawning of his ſword, cloake, and what not, when mo<g ref="char:EOLhyphen"/>ney came ſhort; his impudent pamphletting, phantaſticall interluding, and deſperate libelling, when other cooſening ſhiftes failed: his imployinge of Ball, (ſurnamed, cuttinge Ball) till he was intercepted at Tiborne, to leauy a crew of his truſtieſt companions, to guarde him in daunger of Ar<g ref="char:EOLhyphen"/>reſtes: his keping of the foreſaid Balls ſiſter, a ſorry ragged queane, of whome hee had his baſe ſonne, <hi>Infortunatus Greene:</hi> his forſaking of his owne wife, too honeſt for ſuch a husband: particulars are infinite<g ref="char:punc">▪</g> his contemning of Su<g ref="char:EOLhyphen"/>periours, deriding of other, and defying of all good order? Compar<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> baſe fellowes, and noble men together: &amp; what in a manner wanted he of the ruffianly, and variable nature of <hi>Catiline,</hi> or <hi>Antony,</hi> but the honourable fortunes of <hi>Cati<g ref="char:EOLhyphen"/>line,</hi> and <hi>Antony?</hi> They that haue ſeene much more, then I haue heard; (for ſo I am credibly infourmed) can relate ſtraunge, &amp; almoſt incredible Comedies of his monſtrous diſpoſition: wherewith I am not to infect the Aire, or de<g ref="char:EOLhyphen"/>file this paper. There be inough, and inough ſuch Hiſto<g ref="char:EOLhyphen"/>ries, both dead, and liuing: though youth bee not corrup<g ref="char:EOLhyphen"/>ted, or age accloyed with his Legendary. Truely I haue beene aſhamed, to heare ſome aſcertayned reportes of hys moſt woefull, and raſcall eſtate: how the wretched fellow, or ſhall I ſay the Prince of beggars, laid all to gage for ſome
+<pb n="11" facs="tcp:4033:7"/>
+few ſhillinges: and was attended by lice: and would pitti<g ref="char:EOLhyphen"/>fully beg a penny-pott of Malmeſie: and could not gett a<g ref="char:EOLhyphen"/>ny of his old acquaintance to comfort, or viſite him in his extremity, but Miſtris Appleby, and the mother of Infor<g ref="char:EOLhyphen"/>tunatus. Alas, euen his fellow-writer, a proper yong man, if aduiſed in time, that was a principall gueſt at that fatall banquet of pickle herring, (I ſpare his name, and in ſome reſpectes wiſh him well) came neuer more at him: but ei<g ref="char:EOLhyphen"/>ther would not, or happily could not performe the duty of an affectionate, and faithfull frend. The poore Cordwai<g ref="char:EOLhyphen"/>ners wife was his onely nurſe: and the mother of Infortu<g ref="char:EOLhyphen"/>natus hys ſole companion: but when Miſtriſſe Appleby came, as much to expoſtulate iniuries with her, as to viſite him. God helpe good fellowes, when they cannot helpe themſelues. Slender reliefe in the predicamente of priuati<g ref="char:EOLhyphen"/>ons, and fained habites. Miſerable man, that muſt peariſh: or be ſuccoured by counterfeite, or impotente ſupplies. I once bemoned the decayed and blaſted eſtate of M. <hi>Ga<g ref="char:EOLhyphen"/>ſcoigne:</hi> who wanted not ſome commendable parts of con<g ref="char:EOLhyphen"/>ceit, and endeuour: but vnhappy M. <hi>Gaſcoigne,</hi> how Lord<g ref="char:EOLhyphen"/>ly happy, in compariſon of moſt-vnhappy M. <hi>Greene?</hi> He neuer enuyed me ſo much, as I pittied him from my hart: eſpecially when his hoſtiſſe <hi>Iſam,</hi> with teares in her eies, &amp; ſighes from a deeper fountaine, (for ſhe loued him derely) tould me of his lamentable begging of a penny-pott of Malmeſy: and ſir reuerence how lowſy he, and the mother of Infortunatus were (I would her Surgeon found her no worſe, then lowſy:) and how he was faine poore ſoule, to borrow her husbandes ſhirte, whiles his owne was a wa<g ref="char:EOLhyphen"/>ſhing: and how his dublet. and hoſe, and ſword were ſold for three ſhillinges: and beſide the charges of his winding ſheete, which was foure ſhillinges; and the charges of hys
+<pb n="12" facs="tcp:4033:8"/>
+buriall yeſterday in the New-churchyard neere Bedlam, which was ſix ſhillinges, and foure pence; how deeply hee was indebted to her poore husbande: as appeered by hys owne bonde of tenne poundes: which the good woman kindly ſhewed me: and beſeeched me to read the writting beneath: which was a letter to his abandoned wife, in the behalfe of his gentle hoſt: not ſo ſhort as perſuaſible in the beginning, and pittifull in the ending.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>Doll, I charge thee by the loue of our youth, &amp; by my ſoules reſt, that thou wilte ſee this man paide: for if hee, and his wife had not ſuccoured me, I had died in the streetes.</p>
+                  <closer>
+                     <signed>Robert Greene.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Oh what notable matter were here for a greene head, or Lucianicall conceit: that would take pleaſure in the paine of ſuch ſorry diſtreſſed creatures? whoſe afflicted caſe, to euery charitable, or compaſsionate mind cannot but ſeeme moſt commiſerable, if not for their owne cauſe, yet for Gods ſake: who deſerueth infinitely of them, whome hee acquitteth, not according to iudgement, but according to mercy. I rather hope of the deade, as I wiſh to the liuinge, that Grace might finally abounde, where wickedneſſe did ouerflow: and that Chriſt in his diuine goodneſſe ſhoulde miraculouſly forgiue the man, that in his diueliſh badneſſe blaſphemouſly reuiled God. The dead bite not: and I am none of thoſe, that bite the dead. When I begin to conflict with Ghoſtes, then looke for my Confutation of his fine Quippe, or quaint Diſpute, whome his ſweete hoſtiſſe for a tender farewell, crowned with a Garlande of Bayes: to ſhew, that a tenth Muſe honoured him more being deade; then all the nine honoured him aliue. I know not, whether <hi>Skelton, Elderton,</hi> or ſome like flouriſhing Poet were ſo en<g ref="char:EOLhyphen"/>terred:
+<pb n="13" facs="tcp:4033:8"/>
+it was his owne requeſt, and his Nurſes deuotion: and happily ſome of his fauourites may imitate the exam<g ref="char:EOLhyphen"/>ple. One that wiſhed him a better lodging, then in a poore Iourneymans houſe, &amp; a better graue, then in that Church<g ref="char:EOLhyphen"/>yard in Bedlam, hath perfourmed a little peece of a greater duety to a Laureat Poet.</p>
+            <q>
+               <l>Here lies the man, whome miſtriſſe <hi>Iſam</hi> crown'd with bayes;</l>
+               <l>Shee, ſhee, that ioyde to heare, her Nightingales ſweete layes.</l>
+            </q>
+            <p>Which an other no ſooner read, but he immediatly ſub<g ref="char:EOLhyphen"/>ſcribed: as ſpeaking to the ignorant paſſenger.</p>
+            <q>
+               <l>Heere Bedlam is: and heere a Poet gariſh,</l>
+               <l>Gaily bedeck'd, like forehorſe of the pariſh.</l>
+            </q>
+            <p>Other Epitaphes, and funerall deuotions I am promiſed by ſome, that deepely affect inſpired Bardes, and the adop<g ref="char:EOLhyphen"/>ted ſonnes of the Muſes: but you may imagine, I haue ſmal ſuperfluity of leyſure, to entend ſuch buſineſſe: and yet no<g ref="char:EOLhyphen"/>thing of frend, or foe, can be vnwelcome vnto mee, that ſa<g ref="char:EOLhyphen"/>uoureth of Witte, or relliſheth of Humanity, or taſteth of any good. In the meane, as euer before for a generall De<g ref="char:EOLhyphen"/>fence, ſo ſtill for a ſpeciall Apology, I referre my ſelfe to e<g ref="char:EOLhyphen"/>uery indifferent Iudgement: and preſume they will con<g ref="char:EOLhyphen"/>ceiue well, that perceiue no ill. Charity recommendeth Fauour to ſuperiours; Amity to equalls: and good-will to all; that either reuerence Diuinity, or regarde Humanity. Friendes haue Affection; and the wiſer ſort Reaſon, to va<g ref="char:EOLhyphen"/>lue men, not by others report, but by their owne deſart, or probable hope: which I would willingly nouriſh, as I ho<g ref="char:EOLhyphen"/>neſtly may<g ref="char:punc">▪</g> till it ſhall pleaſe God to affoord ſome conue<g ref="char:EOLhyphen"/>nient occaſion of more actuall proofe. And as for Enuy, or hatred to any party: I did euer abhorre them both: and I i<g ref="char:EOLhyphen"/>magine
+<pb n="14" facs="tcp:4033:9"/>
+there is not any, that either more reſolutely diſday<g ref="char:EOLhyphen"/>neth the one, or, more peremptorily deteſteth the other: as perhaps may yer long viſibly appeere: if ſome other requi<g ref="char:EOLhyphen"/>ſites concurre with my intention, or fall-out aunſweareable to my expectation. Promiſe is debt: and I h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dd rather per<g ref="char:EOLhyphen"/>fourme, then promiſe any thinge: but a minde, deſirous to pleaſure frendes, to reconcile foes, to diſpleaſe fewe, to diſ<g ref="char:EOLhyphen"/>pleaſure none. They that haue little elſe, to winne or conti<g ref="char:EOLhyphen"/>nue credite, had neede haue Humanity, in ſupply of other defectes. Let the worlde deale with ſimple men, as it plea<g ref="char:EOLhyphen"/>ſeth: I loath to be odious to any: and would be loth to bee tedious to you. The next weeke, you may happily haue a letter of ſuch French occurrences, and other intelligences, as the credible relation of inquiſitiue frendes, or imployed ſtraungers ſhall acquaint me withall. That moſt valorous, and braue king wanteth no honourable prayſes, or zealous prayers. Redoubted Parma was neuer ſo matched: and in ſo many woorthy hiſtories, aſwell new, as olde; how few comparable either for Vertue, or Fortune? The Spanyard, politique inough, and not ouer-raſhly audatious, will bee aduiſed, before he entangle himſelfe with mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e warres at<g ref="char:EOLhyphen"/>tonce: knowing how the braue Earle of Eſſex, woorthy ſir Iohn Norrice, and their valiant knightes, haue fought for the honour of England; and for the right of Fraunce, of the Low countries, and of Portugall. Thriſe happy Fraunce; though how vnhappy Fraunce, that haſt ſuch a Soueraine Head, ſuch reſolute Hartes, and ſuch inuincible Handes to fight for thee: that will either recouer thee moſt mightily, or die for thee moſt honourably. Were I of ſufficient diſ<g ref="char:EOLhyphen"/>courſe, to record the valiaunteſt, and memorableſt actes of the world; I would count it a felicity, to haue the oportu<g ref="char:EOLhyphen"/>nity of ſo egregious, and heroicall an argument: not plea<g ref="char:EOLhyphen"/>ſurably
+<pb n="15" facs="tcp:4033:9"/>
+deuiſed in counterfaite names, but admirably re<g ref="char:EOLhyphen"/>preſented to the eie of France, and the eare of the world, in the perſons of royall, and moſt puiſſaunt knightes: how ſingularlie worthy of moſt glorious, and immortal fame? Gallant wits, and braue pennes may honorably bethinke themſelues: and euen ambitiouſlye frame their ſtile to a noble emulation of Liuy, Homer, and the diuineſt ſpirits of all ages: I returne to my priuate buſineſſe. Good mai<g ref="char:EOLhyphen"/>ſter Birde, commende me to my good friendes: and fare you hartely wel.</p>
+            <closer>
+               <dateline>London <date>this 5. of September.</date>
+               </dateline>
+               <signed>Your euer aſſured: Gabriell Haruey.</signed>
+            </closer>
+         </div>
+         <div n="3" type="letter">
+            <head>The Third Letter.</head>
+            <head type="sub">To euery Reader, fauourablie, or indifferently affected.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lbeit for theſe twelue, or thirteene yeares, no man hath beene more loth, or more ſcrupulous, then my ſelfe, to vnderlie the cenſure of euery curious conceite, or rigorous iudgement, that pretendeth a deepe inſight in the perfe<g ref="char:EOLhyphen"/>ctions of wits and ſtiles, inſomuch that euen Actions of Silence and Patience haue bene commenced againſt me: and although I ſtil dwel in the ſame opinion, that nothing would be committed to a publike view, that is not exact<g ref="char:EOLhyphen"/>ly laboured both for matter and maner: and that impor<g ref="char:EOLhyphen"/>teth not ſome notable vſe, to one, or other effecuall pur<g ref="char:EOLhyphen"/>poſe: Yet partlie the vehemente importunity of ſome affectionate friends, and partly mine owne tender regard
+<pb n="16" facs="tcp:4033:10"/>
+of my fathers, and my brothers good reputation, haue ſo forcibly ouer-ruled me, that I haue finally condeſcen<g ref="char:EOLhyphen"/>ded to their paſſionate motion: and in an extraordinarie caſe, haue reſpectiuely yeelded my conſent to an extraor<g ref="char:EOLhyphen"/>dinary courſe. Which I would vnpartially commend to the reaſonable allowance of euery indiferent peruſer that carrieth Courteſie in his Tongue, or honeſty in his Hart. For mine own iniury, the more I conſider, the leſſe I eſti<g ref="char:EOLhyphen"/>mate the ſame: as one born to ſuffer, &amp; made to contemne iniuries. He that in his youth flattered not himſelfe with the exceeding commendations of ſome greateſt ſchollets in the worlde: cannot at theſe yeares, either be diſcoura<g ref="char:EOLhyphen"/>ged with miſreporte, or daunted with misfortune. A pre<g ref="char:EOLhyphen"/>meditate, &amp; reſolute minde lightly ſhaketh off the heaui<g ref="char:EOLhyphen"/>eſt croſſes of malice, and eaſely paſſeth ouer a thouſande grieuances with a ſmile. Some haue learned of Reaſon, ſome of Philoſophy, ſome of Hiſtory, ſome of Diuinitie, ſome of Experience, ſome of all, to endure patiently, whatſoeuer befalleth, &amp; euen to make the cruelleſt paine pleaſant, as ſome make the ſweteſt pleaſure painefull. I had rather name <hi>Titius,</hi> or <hi>Sempronius,</hi> then my ſelfe: But the vrgent entreaty of friends, and your eager expectati<g ref="char:EOLhyphen"/>on haue ſuddainely obtained that, which no perſonall em<g ref="char:EOLhyphen"/>peachment, or real enforcement could in many yeres ex<g ref="char:EOLhyphen"/>tort. Howbeit I ſhall hardly content them, to ſatisfy you: that am neither to offend any, but in caſe of not oriety: nor to defend my ſelfe, but in caſe of neceſſity, or honeſty. If anie haue charged mee, or do charge mee with inſuffici<g ref="char:EOLhyphen"/>ency, I confeſſe: perfection is no common gifte: if with ignorance, I graunt: many ſeeme, fewe are learned: if with ſimplicity, I yeeld: wondrous wittes are rare birdes: if with ill-lucke, I deny not: good lucke is not euerie mans
+<pb n="17" facs="tcp:4033:10"/>
+lotte: yet who euer hearde me complaine of ill-lucke, or once ſay, <hi>Fortune my Foe?</hi> But in the plainneſſe of my na<g ref="char:EOLhyphen"/>ture, and ſimplicitie of my Arte, I can eaſely defie the proudeſt, that dareth cal my credite in queſtion: or ac<g ref="char:EOLhyphen"/>cuſe me of any diſhoneſt, or ſcandelous parte, either in deede, or in word. Many thinges are made offenſiue in the handling, that are tollerable inough in their owne na<g ref="char:EOLhyphen"/>ture: or fie on an odious circumſtaunce, where the ſub<g ref="char:EOLhyphen"/>ſtance it ſelfe might be more gratious. Letters may bee priuately written, that would not bee publikely diuul<g ref="char:EOLhyphen"/>ged: I was then yong in yeares, freſh in courage, greene in experience, and as the manner is, ſomewhat ouer<g ref="char:EOLhyphen"/>weeninge in conceit: and for varietie of ſtudy, and ſome deeper intelligence in the affayres of the worlde, other<g ref="char:EOLhyphen"/>whiles reading inuectiues, and Satyres, artificially am<g ref="char:EOLhyphen"/>plifyed in the moſt exaggerate and hyperbolicall kinde, I coulde hardlye refraine from diſcoueringe ſome little part of my reading: I had curiouſly laboured ſome exact, and exquiſite poyntes of ſtudie and practiſe, and greatly miſliked the prepoſterous and vntoward courſes of di<g ref="char:EOLhyphen"/>uers good wits, ill directed; there wanted not ſome ſharpe vndeſerued diſcourteſies to exaſperate my mind: ſhall I touch the vlcer? it is no ſuch myſterye, but it may be re<g ref="char:EOLhyphen"/>uealed: I was ſuppoſed not vnmeet for the Oratorſhip of the vniuerſity, which in that ſpringe of mine age, for my Exerciſe, and credite I earneſtly affected: but mine owne modeſt petition, my friendes diligent labour, our high Chauncelors moſt-honourable and extraordinarye com<g ref="char:EOLhyphen"/>mendation, were all peltingly defeated, by a ſlye practiſe of the olde Fox: whoſe acts, and monumentes ſhal neuer dye: ſome like accidents of diſlike, for breuity I ouerſlip: young bloud is hot: youth haſty: ingenuity open: abuſe
+<pb n="18" facs="tcp:4033:11"/>
+impatiente: choler ſtomachous: temptations buſie: the Inuectiue vaine, a ſturring, and tickeling vaine: the Saty<g ref="char:EOLhyphen"/>ricall humour, a puffinge, and ſwellinge humor: Conceit penneth, leiſure peruſeth, and Curteſy commendeth ma<g ref="char:EOLhyphen"/>ny needleſſe diſcourſes: Idleneſſe, the greateſt Author &amp; variableſt Reader in the world: ſome familiar friendes pricked me forward: and I, neither fearing daunger, nor ſuſpecting ill meaſure, (poore credulitie ſone beguiled) was not vnwilling to content them, to delight a few other and to auenge, or ſatisfie my ſelfe, after the manner of ſhrewes, that cannot otherwiſe eaſe their curſt hearts, but by their owne tongues, &amp; their neighbours eares. Signor Immerito (for that name will be remembred) was then, and is ſtill my affectionate friend, one that could very wel abide Gaſcoignes Steele glaſſe, and that ſtoode equallie iudifferent to either part of the ſtate Demoſtratiue: ma<g ref="char:EOLhyphen"/>ny communications, and writings may ſecretlie paſſe be<g ref="char:EOLhyphen"/>tweene ſuch, euen for an exerciſe of ſpeech, and ſtile that are not otherwiſe conuenient to be diſcloſed: it was the ſi<g ref="char:EOLhyphen"/>niſter hap of thoſe infortunate Letters, to fall into the left handes of malicious enemies, or vndiſcreete friends: who aduentured to imprint in earneſt, that was ſcribled in ieſt, (for the moody fit was ſoone ouer:) and requited their pri<g ref="char:EOLhyphen"/>uate pleaſure with my publike diſpleaſure: oh my ineſti<g ref="char:EOLhyphen"/>mable, and infinite diſpleaſure. When there was no re<g ref="char:EOLhyphen"/>medie, but melancholy patience: and the ſharpeſt parte of thoſe vnlucky Letters had bene ouer read at the Coun<g ref="char:EOLhyphen"/>cell Table: I was aduiſed by certaine honourable, and di<g ref="char:EOLhyphen"/>uers worship full perſons, to interpreate my intention in more expreſſe termes: and thereupon diſcourſed euerie particularitie, by way of Articles or Poſitions, in a large Apology of my duetiful; and entier affection to that flou<g ref="char:EOLhyphen"/>riſhing
+<pb n="19" facs="tcp:4033:11"/>
+Vniuerſitie, my deere Mother: which Apology, with not ſo few as forty ſuch Academicall Exerciſes, and ſundry other politique Diſcourſes, I haue hitherto ſup<g ref="char:EOLhyphen"/>preſſed, as vnworthie the view of the buſie world, or the entertainement of precious Time: but peraduenturetheſe extraordinarie prouocations may worke extraordinarilie in me; and though not in paſſion, yet in conceit ſturre me vp, to publiſh many Traictes, and Diſcourſes, that in certaine conſiderations I meant euer to conceale, and to Dedicate vnto none, but vnto obſcure Darkeneſſe, or fa<g ref="char:EOLhyphen"/>mous Vulcane. It were pittie, but wonderous wits (giue enemies their due) ſhould become more woonderous by compariſon, conference maketh excellent things ap<g ref="char:EOLhyphen"/>peare more admirablie: &amp; I am ſo far fro<g ref="char:cmbAbbrStroke">̄</g> being a Saturniſt by nature, or a Stoick by diſcipline, that I can eaſily frame a certaine pleaſurable delight vnto my ſelfe, by miniſtring ſome matter vnto them, that now are faine to make ſome thing of nothing: and wittily to plaie with their own ſha<g ref="char:EOLhyphen"/>dowes. It goeth ſomewhat hard in my harſh Legend, whe<g ref="char:cmbAbbrStroke">̄</g> the father of Muſicke muſt be mocked, not Tubulcain, as he miſtearmeth him, but Tuball, whom Geneſis voutſa<g ref="char:EOLhyphen"/>feth honourable mention: and the Hexameter verſe flou<g ref="char:EOLhyphen"/>ted<g ref="char:punc">▪</g> whereof neither Homer in Greeke, nor Virgill in La<g ref="char:EOLhyphen"/>tine, (how valorous Autors?) nor Alexander in conqueſt nor Auguſtus in maieſty, (how puiſſaunt Princes?) were aſhamed: but accompted it the onely gallant trompet of braue, and Heroicall Acts: and I wis, the Engliſh is no<g ref="char:EOLhyphen"/>thing too-good to imitat the Greeke, or Latine, or other eloquent Languages, that honour the Hexameter, as the ſoueraigne of verſes, and the high Controwler of Rimes. If I neuer deſerue anye better remembraunce, let mee ra<g ref="char:EOLhyphen"/>ther be Epitaphed, The Inuentour of the Engliſh Hexa<g ref="char:EOLhyphen"/>meter:
+<pb n="20" facs="tcp:4033:12"/>
+whome learned M. Stanihurſt imitated in his Vir<g ref="char:EOLhyphen"/>gill; and excellent Sir Phillip Sidney diſdained not to fol<g ref="char:EOLhyphen"/>low in his Arcadia, &amp; elſewhere: then be chronicled, The greene maiſter of the Blacke Arte: or the founder of vg<g ref="char:EOLhyphen"/>ly oathes: or the father of misbegotten <hi>Infortunatus:</hi> or the Scriuener of Crosbiters: or as one of his owne ſectaries termed him the Patriarch of ſhifters. Happy man I, if theſe two be my hainouſeſt crimes, and deadlieſt ſinnes, To bee the Inuentour of the Engliſh Hexameter, and to bee orderlie clapt in the Fleete for the foreſaide Letters: where he that ſawe me, ſawe mee at Conſtantinople. In<g ref="char:EOLhyphen"/>deede Sir Iames Croft (whome I neuer touched with the leaſt tittle of detractions) was cunningly incenſed, and reincenſed againſt mee: but at laſt pacified by the volun<g ref="char:EOLhyphen"/>tarie mediation of my honourable fauourers, M. Secre<g ref="char:EOLhyphen"/>tary Wilſon, and Sir Walter Mildmay: vnrequeſted by any line of my hand, or any woord of my mouth. Neither did I otherwiſe ſollicite, or intreate Sir Iames, till I had aſſured notice of his better ſatisfaction: when I writte vnto him, as became mee, in reſpectiue, and ductifull ſorte: not for feare of any daunger, but for loue of houou<g ref="char:EOLhyphen"/>rable fauour. Which Letters, albeit not ſo ceremoniouſ<g ref="char:EOLhyphen"/>lie pleaſing, as effectually contenting, the wiſe knight not onely receiued courteouſly, but accepted fauoura<g ref="char:EOLhyphen"/>blie, and commended honourablye: and for my ſelfe, earneſtly affirmed, I was firſt wronged by other, and then miſtaken by him: but now found another man, then I was ſuppoſed. As for my olde Controwler, Doctor Perne (for he indeed was the man, that otherwhiles flattered me ex<g ref="char:EOLhyphen"/>ceedingly, otherwhiles ouerthwarted me croſly, alwaies plaied faſt, and looſe with me) he was old enough, to aun<g ref="char:EOLhyphen"/>ſweare for himſelfe, and ſhould not bee defended by him.
+<pb n="21" facs="tcp:4033:12"/>
+Onely he wiſhed me to proceede louinglywith the Vni<g ref="char:EOLhyphen"/>uerſity, howſoeuer I dealt with that Doctor. And that was all the Fleeting, that euer I felt: ſauing that an other com<g ref="char:EOLhyphen"/>pany of ſpeciall good fellowes, (whereof he was none of the meaneſt, that brauely threatned to coniure-vpp one, which ſhould maſſacre Martins witt, or ſhould bee lam<g ref="char:EOLhyphen"/>backd himſelf with ten yeares prouiſion) would needs for<g ref="char:EOLhyphen"/>ſooth verye courtly perſwade the Earle of Oxforde, that ſome thing in thoſe Letters, and namely the Mirrour of Tuſcaniſmo, was palpably intended againſt him: whoſe noble Lordeſhip I proteſt, I neuer meante to diſhonour with the leaſt preiudicial word of my Tongue, or pen: but euer kept a mindefull reckoning of many bounden duties toward The-ſame: ſincein the prime of his galla<g ref="char:cmbAbbrStroke">̄</g>teſt youth, hee beſtowed Angels vpon mee in Chriſtes Colledge in Cambridge, and otherwiſe voutſafed me many gratious fauours at the affectionate commendation of my Coſen, M. Thomas Smith, the ſonne of Sir Thomas, ſhortly af<g ref="char:EOLhyphen"/>ter Colonel of the Ardes in Ireland. But the noble Earle, not diſpoſed to trouble his Iouiall mind with ſuch Satur<g ref="char:EOLhyphen"/>nine paltery, ſtil continued, like his magnificent ſelfe: and that Fleeting alſo proued, like the other: a ſilly bullbeare, a ſorry puffe of winde, a thing of nothing. But a ſtrong imagination pierceth deepely: and the Paper Fleete will not bee ſo aunſwered. Ieſu, what would ſuch notable fel<g ref="char:EOLhyphen"/>lowes write, or rather would they not write, if they could probably ſay, or fantaſtically ſurmize by me, as I can e<g ref="char:EOLhyphen"/>uidently proue by them? But I ſeeke not the condemna<g ref="char:EOLhyphen"/>tion of the deade, or the diſgrace of the liuing: but the good amendement of the one, by the naughty example of the other. And for mine own farther iuſtification in the premiſſes, or otherwiſe: I had rather my larger writings
+<pb n="22" facs="tcp:4033:13"/>
+and other actions ſhould plead for mee, then this, or any ſlighte Letter: wherein I am not to infourme pregnant conceits, that may imagine more by a little: or to addreſſe any peece of mine own hiſtory, though wiſer men in caſe of vnworthy reproch, haue not made nice to vndertake their owne defence, and euen to labour their owne com<g ref="char:EOLhyphen"/>mendation. The plauſible Examples of Tully, Cato, Ma<g ref="char:EOLhyphen"/>rius, Scipio, diuers ſuch vertuous Romanes, and ſundry excellent Greekes, are famouſly knowen: but not greatly fit for euery mannes imitation. Were other of my diſpo<g ref="char:EOLhyphen"/>ſition, ſmall time ſhould be loſt in auenging, or debating verball iniuries, eſpecially to my ſelfe: who can verie well ſuffer poore ſpite, to ſhoote at mee, and to hitte himſelfe: and ſometime ſmile at the ſilly flie, that will needs martyr it ſelfe in my candle. But me thinkes, the wildeſt head, and deſperateſt mind ſhould conſider: they that ſpeake il muſt not looke to heare well: the worlde is not giuen to pocket vp infamies: who cannot returne-home a Quippe, or re<g ref="char:EOLhyphen"/>quite one libell with an other? nothing more common in bookes, or more readye in mouthes, then the Inuectiue vaine, and the whole Arte of railing: ſome ſchollers haue choyce of nimble pennes, &amp; ſmooth tongues at co<g ref="char:cmbAbbrStroke">̄</g>man<g ref="char:EOLhyphen"/>dement: &amp; there was a time, when paraduenture I coulde ſpeake with them, that talked we me. Though the caſe be altered: and I now, none of the haſtieſt to ſtriue for thoſe bucklers: yet a general, a ſpecial, a glowing, a piercing in<g ref="char:EOLhyphen"/>dignitie may rekindle ſome little ſparkes of courage, and affection wil be affection, though not in proper reuenge, yet the common duetie. I am not to diſpute the nature of Force<g ref="char:punc">▪</g> or the force of nature, who knoweth not, how vio<g ref="char:EOLhyphen"/>lentlie force prouoketh force: or how mightilie nature worketh in compatible natures? But how far publike ob<g ref="char:EOLhyphen"/>iectio<g ref="char:cmbAbbrStroke">̄</g>s,
+<pb n="23" facs="tcp:4033:13"/>
+or famous imputations require publike aunſwers: or how inſufficient the formalleſt Iudiciall remedie in a<g ref="char:EOLhyphen"/>ny one Court, may ſeeme, in caſe of a printed diffamati<g ref="char:EOLhyphen"/>on, that with the wings of Mallice in ſome, of Enuie in more, and of Leuity in moſt, flieth through the Realme, and ouer the Sea: bee it indifferentlie decided by euerie diſcreete iudgement, or reaſonable conſideration. Eſpe<g ref="char:EOLhyphen"/>cially when the guiltie part is deceaſed: and the iniury not the leſſe, but the more notorious. The beſt is, the per<g ref="char:EOLhyphen"/>ſons abuſed, are not altogether vnknowen, they haue not ſo euell a neighbour, that euer reade, or hearde thoſe op<g ref="char:EOLhyphen"/>probrious villanies, (it is too-mild a name, for my brother Richardes moſt abhominable Legend, who frameth him<g ref="char:EOLhyphen"/>ſelfe to liue as chaſtely, as the leawde writer affected to liue beaſtly) but hath preſentlie broken out into ſome ſuch earneſt, or more paſſionate ſpeeches<g ref="char:punc">▪</g> ô peſtilent kna<g ref="char:EOLhyphen"/>uery, who euer heard ſuch arrant forgeries, and ranke lies? A mad world, where ſuch ſhameful ſtuffe is bought, and ſould: and where ſuch roiſterly Varlets may be ſuffered to play vpon whome they luſt, and how they luſt. Is this <hi>Greene</hi> with the running Head, and the ſcribling Hand, that neuer linnes putting-forth new, newer, &amp; neweſt bookes of the maker? If his other bookes bee as holeſome geere, as this, no maruaile, though the gay-man conceiue trim<g ref="char:EOLhyphen"/>lie of himſelfe, and ſtatelye ſcorne all beſide. <hi>Green,</hi> vile <hi>Greene,</hi> would thou weareſt halfe ſo honeſt, as the worſt of the foure, whom thou vpbraideſt: or halfe ſo learned, as the vnlearnedſt of the three. Thanke other for thy borrow<g ref="char:EOLunhyphen"/>ed<g ref="char:punc">▪</g> &amp; filched plumes of ſome little Italianated brauery: &amp; what remaineth, but flat Impudencie, and groſſe Detra<g ref="char:EOLhyphen"/>ction: the proper ornaments of thy ſweete vtterance? I alleadge not mine owne inuentions, (who cannot forget
+<pb n="24" facs="tcp:4033:14"/>
+the two Athenian Temples of Impudencie, and Calum<g ref="char:EOLhyphen"/>nie, when I remember him:) I could nominate the Gen<g ref="char:EOLhyphen"/>tlemen, and ſubſtantiall Yeoman, Gentlemens fellowes, that vttered much more by his life, and can hardlie for beare him ſince his death: and who of acquaintance with him, or them, whome hee depraueth, could either parti<g ref="char:EOLhyphen"/>allie excuſe the one, or reaſonablie accuſe the other? Their liues effectually ſpeake for themſelues: and he that liued not, to ſee nine and twentie yeares, died not, till the Vniuerſitie of Cambridge had beſtowed vpo<g ref="char:cmbAbbrStroke">̄</g> him a grace to bee a Doctor of his facultie, and till hee was reputed in Northfolke, where he practiſed phiſicke, a proper toward man, and as skilfull a Phiſition for his age, as euer came there: how well beloued of the chiefeſt Gentlemen, and Gentlewomen in that Shire, themſelues teſtifie. That is gone to Heauen, cannot bee recouered on Earth: it is our comfort, that he liued in good credite, and died in good minde. I muſt euer remember ſome of his notable ſayings (for in deede ſo they were): and can neuer forget that ſweete voice of the dying Cignet: <hi>ó frater, Chriſtus eſt op<g ref="char:EOLhyphen"/>timus Medicus, &amp; meus ſolus Medicus. Vale Gal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne, valete hu<g ref="char:EOLhyphen"/>manae Artes: nihil diuinum in terris, praeter animum aſpirantem ad coelos.</hi> That beſt and his onelie Phiſition knoweth, what ſpiritual phiſicke I commended vnto him, when I beheld in his meager and ghaſtly countenance, that I cannot re<g ref="char:EOLhyphen"/>hearſe without ſome fit of compaſſion. Wee muſt in or<g ref="char:EOLhyphen"/>der follow him, that ſhoulde in nature haue gone before him, and I know not by what deſtinie, hee followed him firſt, that foled him laſt. How he departed, his ghoſtly mo<g ref="char:EOLhyphen"/>ther Iſam, can trulieſt, and will fauourablieſt report: how he liued, London remembreth. Oh, what a liuelie picture of Vanity? but oh what a deadlie Image of miſerie? And
+<pb n="25" facs="tcp:4033:14"/>
+oh what a terrible Caueat for ſuch &amp; ſuch? I am not to ex<g ref="char:EOLhyphen"/>tenuate or preiudice his wit, which could not any way be great, though ſom way not the leaſt of our vulgar writers &amp; mani-waies very vngracious: but who euer eſtemed him either wiſe, or learned, or honeſt or anyway credible? how many Gentlemen, and other ſay of him? Let the paltry fel<g ref="char:EOLhyphen"/>low go: Lord, what a lewde Companion was hee? What an egregious makeſhift, Where ſhould Conny-catch<g ref="char:EOLhyphen"/>ers haue gotten ſuch a Secretarie: How ſhal coſenage do for a new Regiſter: or Phantaſticallitye for a new Autor, They wronge him much with their Epitaphes, and other ſolemne deuiſes, that entitle him not at the leaſt, The ſe<g ref="char:EOLhyphen"/>cond Toy of London; the Stale of Poules, the Ape of Eu<g ref="char:EOLhyphen"/>phues, the Vice of the Stage, the mocker of the ſimple world: the flowter of his friendes, the Foe of himſelfe: and ſo foorth. What durſt not hee vtter with his tongue: or diuulge with his Penne: or countenance with his face? Or whome cared hee for, but a careleſſe crewe of his own aſſociates? Peruſe his famous bookes: and in ſteede of, <hi>Omne tulit punctum, qui miſcuit vtile dulci</hi> (that forſooth was his profeſſed Poeſie) Loe a wilde head, ful of mad braine and a thouſande crochets: a Scholler, a Diſcourſer, a Courtier, a ruffian, a Gameſter, a Louer, a Souldier, a Trauailer, Merchaunt, a Broker, an Artificer, a Botcher, a Petti-fogger, a Player, a Cooſener, a Rayler, a beggar, an Omnigatherum, a Gay nothing: a Stoarehouſe of bald and baggage ſtuffe, vnwoorth the aunſwering, or rea<g ref="char:EOLhyphen"/>ding: a Triuiall, and triobular Autor for knaues, &amp; fooles: an Image of Idlenes: an Epitome of fantaſticalitie: a Mirrour of Vanitie: <hi>Vanitas Vanitatum, &amp; omnia vanitas.</hi> Alaſſe, that anie ſhoulde ſay, as I haue heard diuers af<g ref="char:EOLhyphen"/>firme: His witte was nothing, but a minte of knauerie:
+<pb n="29" facs="tcp:4033:15"/>
+himſelfe a deuiſer of iugling feates: a forger of coue<g ref="char:EOLhyphen"/>tous practiſes: an Inuentour of monſtruous oathes: a derider of all religions: a contemner of God, and man: a deſperate Lucianiſt: an abhominable Aretiniſt: an Arch-Athieſt: and he arch-deſerued to be well hanged ſeauen yeares agoe. Twenty, and twentie ſuch familiar ſpeeches I ouer paſſe: and bury the whole Legendary of his Life, &amp; Death, in the Sepulchre of eternall Silence. I will not condemne, or cenſure his workes, which I neuer did ſo much as ſuperficially ouer-runne, but as ſome fewe of the<g ref="char:cmbAbbrStroke">̄</g> occurſiuly preſented themſelues in Stationers ſhops, and ſome other houſes of my acquaintaunce. But I pray God, they haue not done more harme by corruption of manners, then good by quickening of witte: and I would, ſome Buyers had either more Reaſon to diſcerne, or leſſe Appetite to deſire ſuch Nouels. The world is full inough of fooleries: though the humor be not feaſted with ſuch luxurious, and riotous Pamphlets. Howe vnlike <hi>Tullies</hi> ſweete Offices: or <hi>I ſocrates</hi> pithy inſtuctio<g ref="char:cmbAbbrStroke">̄</g>s: or <hi>Plutarches</hi> holeſome Morrals: or the dilicate Dialogues of <hi>Xenophon,</hi> and <hi>Plato:</hi> or the ſage Tragedies of <hi>Sophocles,</hi> and <hi>Euripides</hi> or the fine Comedies of the dainetieſt Atticke wittes: or other excellent monumentes of antiquity, neuer ſuffici<g ref="char:EOLhyphen"/>entlie peruſed? yet the one as ſtale, as oldeſt faſhions: and what more freſhly current for a while, then the other? E<g ref="char:EOLhyphen"/>uen <hi>Guicciardines</hi> ſiluer Hiſtorie, and <hi>Arioſtos</hi> golden Can<g ref="char:EOLhyphen"/>toes, grow out of requeſt &amp; the Counteſſe of Pe<g ref="char:cmbAbbrStroke">̄</g>brookes Arcadia is not greene inough for queaſie ſtomackes, but they muſt haue <hi>Greenes</hi> Arcadia: and I beleeue, moſt ea<g ref="char:EOLhyphen"/>gerlie longed for <hi>Greenes</hi> Faerie Queene. O ſtraunge fan<g ref="char:EOLhyphen"/>cies<g ref="char:punc">▪</g> ô monſtrous newfangledneſſe. The wittier ſort taſt<g ref="char:EOLhyphen"/>eth, &amp; flieth<g ref="char:punc">▪</g> at the Dog from Nilus: other wantons find
+<pb n="27" facs="tcp:4033:15"/>
+Experience the miſtris of fooles: and need no other pen<g ref="char:EOLhyphen"/>nance but their owne repentaunce. The verie Time con<g ref="char:EOLhyphen"/>futeth Vanitie: and the verie place requireth ſobrietie. No publike ſecurity without priuate moderation: and the more bondes of gouernment, the more indefeaſible aſ<g ref="char:EOLhyphen"/>ſurance. Due Circumſpection may do much good: and an aboundant Cautele can do little hurt. Youth is youth: &amp; age corruptible: better an hundred Ouides were bani<g ref="char:EOLhyphen"/>ſhed, then the ſtate of Auguſtus endangered, or a ſoue<g ref="char:EOLhyphen"/>raigne Empire infected. Eſpecially in a tumultuous age, and in a world of warre: wherin not Bacchus, but Mars: not Venus, but Mercury, not Ryot, but Valour, not Phan<g ref="char:EOLhyphen"/>ſy, but Pollicy muſt ſtrike the ſtroke. Gallant Gentlemen, be-thinke your ſelues of the olde Romane Diſcipline, and the newe Spaniſh induſtry: and I am not to trouble you with any other accuſation of them, that condemne them ſelues, and neede no other ſhame, or puniſhment, but their own woorkes. Onely I requeſt ſome buſy pennes to ſtay their wiſedomes: and either to publiſh a iuſtifyable trueth, or to conceale their bad diſpoſition. Woe to that ſtudy, that miſpendeth pretious Time, and conſumeth it ſelf, in needleſſe, and bootleſſe quarrels. Compariſons, they ſay, are odious: but Inuectiues more odious: &amp; what ſo abhominable, as forged &amp; ſuborned calumnies? One, or two miſerable examples may ſtand for an hundred: I will not aggrauate or diſcourſe particulars: A pitiful caſe, that ſuch luſty beginninges ſhould haue ſuch ſorry ends: and who can tell, what dowty yoonker may next gnaſh with his teeth? Terrible Creatures, and the curſt Cowe, haue ſometime ſhort hornes. The wildeſt Colte is ſoone ta<g ref="char:EOLhyphen"/>med: and be like neither Death, nor Shame, nor Miſery are affraid of them, that vaunt themſelues, Like vnto
+<pb n="28" facs="tcp:4033:16"/>
+Death, and Will Sommer, in ſparing none. God helpe, and Charity pittie the<g ref="char:cmbAbbrStroke">̄</g>, that haue neither hability to help, nor witt to pitie themſelues: but will needs try a concluſi<g ref="char:EOLhyphen"/>on betweene their heads, and the next wall. I haue heard of Gyants in conceit, and Pigmeis in performance: yong Phaetons, younge Icary, young Choroebi, and I ſhall ſay young Babingtons, and how many millions of greene youthes, haue in ouermounting, moſt ruefully diſmoun<g ref="char:EOLhyphen"/>ted, and left behinde them full-lamentable Hiſtories? For the very mention of ſome direfull Tragedies, were horri<g ref="char:EOLhyphen"/>ble, and what ſo wretched, as headlong enterpriſes: or ſo hideous, as the deſperate attempt of Impoſſibilities? <hi>Phi<g ref="char:EOLhyphen"/>loſtratus</hi> in his Icones, pleaſurably reporteth, according to to the tradition of Greeke Poets, how on a time, A reſo<g ref="char:EOLhyphen"/>lute bande of dowty Pigmies, triumphantly marched to in uade <hi>Hercules</hi> a ſleepe. Woe to ſuch braue aduentures. Aeſops Toade, A proud aſpiring Creature, ſhamefullie ouermatched her ſwelling, and burſten ſelfe. Great, and ſmall things may in ſome proportion be compared toge<g ref="char:EOLhyphen"/>ther: and beholde as miſerable a ſpectacle, in their kinde. Flouriſhing M. <hi>Greene</hi> is moſt-wofully faded, and whileſt I am bemoaning his ouer-pittious decay; &amp; diſcourſing the vſuall ſucceſſe of ſuch ranke wittes. Loe all on the ſuddaine, his ſworne brother, M. <hi>Pierce Penni-leſſe,</hi> (ſtill more paltery, but what remedy? we are already ouer ſhoes and muſt now goe through) Loe his inwardeſt compani<g ref="char:EOLhyphen"/>on, that taſted of the fatall herringe, cruelly pinched with want, vexed with diſcredite, tormented with other mens felicitie, and ouerwhelmed with his owne miſery; in a ra<g ref="char:EOLhyphen"/>ving, and franticke moode, moſt deſperately exhibiteth his ſupplication to the Diuell. A ſtrange title, an od wit, and a mad hooreſon, I warrant him: doubtles it wil proue
+<pb n="29" facs="tcp:4033:16"/>
+ſome dainty deuiſe, quiently contriued by way of humble Supplication To the high, and mighty Prince of Darke<g ref="char:EOLhyphen"/>neſſe: not Dunſically botched-vp, but right-formally co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ueied, according to the ſtile, and tenour of Tarletons pre<g ref="char:EOLhyphen"/>ſident, his famous play of the ſeauen Deadly ſinnes: which moſt-dealy, but moſt liuely playe, I might haue ſeene in London: and was verie gently inuited thereunto at Ox<g ref="char:EOLhyphen"/>ford, by <hi>Tarleton</hi> himſelfe, of whome I merrily demaun<g ref="char:EOLhyphen"/>ding, which of the ſeauen, was his owne deadlie ſinne, he bluntly aunſwered after this manner; By God, the ſinne of other Gentlemen, Lechery. Oh but that, M. Tarleton, is not your part vpon the ſtage, you are too-blame, that diſſemble with the world &amp; haue one part for your frends pleaſure, an other for your owne. I am ſomewhat of Do<g ref="char:EOLhyphen"/>ctor Pernes religion, quoth he: and abruptlie tooke his leaue. Surely it muſt needes bee current in matter, and autentical in forme, that had firſt ſuch a learned preſident: and is now pleaſantlie interlaced with diuers new-founde phraſes of the Tauerne: and patheticallie intermixt with ſundry dolefull pageantes of his own ruinous, &amp; begger<g ref="char:EOLhyphen"/>lie experience. For the poore Tennement of his Purſe, (quoth himſelfe, gramercy good <hi>Tarlelon)</hi> hath bene the Diuels Dauncing ſchoole, a nie time this halfe yeare, and I pray God, (quoth another) the poore Tennement of his Heart, hath not alſo beene the Diuels Fencing Schoole, twiſe as long. Particulars, and Circumſtances are tedious, eſpecially in ſorrowfull, and forlorne cauſes, the ſumme of ſummes is. He toſt his imagination a thouſand waies, and I beleeue, ſearched euery corner of his Grammer-ſchoole witte, (for his margine is as deepelie learned, as <hi>Fauſte precor gelida)</hi> to ſee if he coulde finde anie meanes to re<g ref="char:EOLhyphen"/>lieue his eſtate, but all his thoughtes, and marginal notes,
+<pb n="30" facs="tcp:4033:17"/>
+conſorted to his concluſion. That the worlde was vncha<g ref="char:EOLhyphen"/>ritable, and he ordained to be miſerable. It were cruelty, to ad affliction to afflictio<g ref="char:cmbAbbrStroke">̄</g>: what flintly Heart would not ſigh or rather melt, to heare the bewailefull moane of that ſob<g ref="char:EOLhyphen"/>bing, and groning Muſe, the daughter of moſt-pregnant, but moſt-wretched <hi>Niobe?</hi>
+            </p>
+            <p>
+               <q>
+                  <l>Why iſt damnation, to deſpaire, and die,</l>
+                  <l>When Life is my true happines diſeaſe?</l>
+               </q>
+And a little after:
+<q>
+                  <l>Diuines, and dying men may talke of Hell:</l>
+                  <l>But in my Heart, her ſeuerall tormentes dwell.</l>
+               </q>
+And ſo foorth moſt-hideouſlie.</p>
+            <p>For the Text is much more dolefull, then the Gloſſe: and who woulde not be moued with more pittifull com<g ref="char:EOLhyphen"/>punction, to heare the lamentable Farewell.</p>
+            <p>
+               <q>
+                  <l>England adieu, the ſoile that brought me foorth:</l>
+                  <l>Adieu vnkinde, where Skill is nothing worth:</l>
+               </q>
+Then to read that profound Quotation,
+<q>
+                  <l>He<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mihi, quam paucos haec mea dicta mouent?</l>
+               </q>
+Which was thought Patheticall out of crie.
+<q>
+                  <l>Forgiue him God, although he curſe his Birth,</l>
+                  <l>Since Miſerie hath dawnted all his Mirth.</l>
+               </q>
+            </p>
+            <p>Now good ſweete Muſe, I beſeech thee by thy delicate witte, and by all the queinteſt Inuentions of thy deuiſeful braine, caſt not thy drearie ſelfe headlong into the horri<g ref="char:EOLhyphen"/>ble Gulph of Deſperation: but being a Creature of ſo ſin<g ref="char:EOLhyphen"/>gular, and wonderfull hope, as thy inſpired courage di<g ref="char:EOLhyphen"/>uinelie ſuggeſteth, and ſtill reare-vp mountaines of high<g ref="char:EOLhyphen"/>eſt Hope: and either gallantlie aduance thy vertuous ſelf, maugre Fortune: (what impoſſible to aſpiring induſtry?) or mightilie enchant ſome magnificent Mecoenas, (for thou canſt doe it) to honour himſelfe in honouring thee;
+<pb n="31" facs="tcp:4033:17"/>
+and to bliſſe the eies of the gazing worlde, with behol<g ref="char:EOLhyphen"/>ding thoſe Miracles, which ſome round liberality, and thy ſuper-thankfull minde, would hugelie enable thee to worke. Let it neuer be ſaid, that the Minion of the Muſes, ſhould forfake himſelf, or abandon them, whoſe very ſha<g ref="char:EOLhyphen"/>dowes he adoreth. A braue Hart, in extreameſt diſtreſſe, neuer languiſheth: no ſuch affrig hting Death, or gnaſh<g ref="char:EOLhyphen"/>ing Hell, as the deuouring Abyſſe of diſpaire. Yet better a man without money, then money without a man: Pen<g ref="char:EOLhyphen"/>nileſſe is not his purſe but his minde: not his reuenue, but his reſolution: A ma<g ref="char:cmbAbbrStroke">̄</g> is a man though he haue but a hoſe vpon his head: for euerie curſe, there is a bleſſing, for eue<g ref="char:EOLhyphen"/>rie malady, a remedie, for euerie winter, a ſommer: for euerie night a day, a dog hath a day.</p>
+            <q>
+               <l>Nocte pluit tota: redeunt ſpectacula manè.</l>
+            </q>
+            <p>Right magnanimitie neuer droupeth, ſweet Muſike re<g ref="char:EOLhyphen"/>quickeneth the heauieſt ſpirites of dumpiſh Melancholy: fine Poetry abhorreth the loathſome, and vgly ſhape of forlorne penſiuenes: what gentle minde deteſteth not curſed, and damnable deſperation? All abiect dolefulnes, is woefully baſe, and baſelie woefull. The die, the ball, the ſponge, the ſiue, the wheele of Fortune, Fortune hirſelfe, a trifle, a ieſt, a toy in Philoſophy, &amp; diuine reſolution. Be a Muſitian, &amp; Poet vnto thy ſelf, that art both, and a Ring<g ref="char:EOLhyphen"/>leader of both, vnto other, be a Man, be a Gentleman, be a Philoſopher, be a Diuine, be thy reſolute ſelfe; not the Slaue of Fortune, that for euery fleabiting crieth out-alas &amp; for a few hungry meales, like a Greeke Paraſite, miſuſeth the Tragedy of Hecuba: but the friend of Vertue, that is richeſt in pouerty, freeſt in bondage, braueſt in ieopardie, cheerefulleſt in calamitie, be rather wiſe, and vnfortunate, with the ſiluer Swanne, then fortunate &amp; vnwiſe, with the
+<pb n="32" facs="tcp:4033:18"/>
+golden Aſſe: remember thine owne marginal Embleme, <hi>Fortuna fauet fatuis.</hi> Oh, ſolace thy miraculous ſelfe, and cheere the Muſes in cheering thy daintie ſoule, ſweetelie drunken with their delitious Helicon, and the reſtoratiue Nectar of the Gods. What can I ſay more? That cordial liquor, and that heauenly reſtoratiue, bee thy ſoueraigne comfort: and ſcorne the baſenes of euerie craſed, or fain<g ref="char:EOLhyphen"/>ting thought, that may argue a degenerate minde. And ſo much briefly touching thy deere ſelfe: who me I hope ne<g ref="char:EOLhyphen"/>uer to finde ſo pathetically diſtreſſed, or ſo Tragically diſ<g ref="char:EOLhyphen"/>guiſed againe. Now a word, or two concerning him, who in charitie kiſſeth thy hand, and in pitie wiſheth thee bet<g ref="char:EOLhyphen"/>ter lucke. May it pleaſe gentle Pierce, in the diuine fury of his rauiſhed ſpirite, to be graciouſlie good vnto his poore friendes, who would be ſomewhat loath, to be ſilly ſheepe for the wolfe, or other ſheepe-biter: I dare vndertake, the abuſed Autor of the Aſtrologicall diſcourſe, (euerie page thereof, vnder correction of inſpired and ſuperna<g ref="char:EOLhyphen"/>turall conceits, diſcouereth more Arte, and Iudgement, the<g ref="char:cmbAbbrStroke">̄</g> the whole Supplicatio<g ref="char:cmbAbbrStroke">̄</g> of the Parturient Mountaine) notwithſtanding the notorious Diabolicall diſcourſe of the ſaide <hi>Pierce,</hi> a man better acquainted with the Diuels of Hell, then with the Starres of Heauen: ſhall vnfained<g ref="char:EOLhyphen"/>ly pray for him: and onely pray him to report the knowen truth, of his approoued learning, &amp; liuing, without fauor. Otherwiſe, it were not greatlie amiſſe, a little to conſider, that he, which in the ruffe of his freſheſt ioility, was faine to cry, M. <hi>Churchyard,</hi> a mercy in printe, may be orderlie driuen to crie more peccauies, then one. I would thinke the Counter, M <hi>Churchyard,</hi> his boſtiſſe <hi>Penia,</hi> and ſuch other ſenſible Leſſons, might ſufficientlie haue taught him, that <hi>Pennileſſe</hi> is not Lawleſſe: and that a Poets, or
+<pb n="33" facs="tcp:4033:18"/>
+Painters Licence, is a poore ſecurity, to priuiledge debt, or diffamacion. I woulde wiſh the burned child not to for<g ref="char:EOLhyphen"/>get the hot Element: and would aduiſe ouer-weening youthes, to remember themſelues, and the good auncient oracle of ſage <hi>Apollo</hi> There is a certaine thing, called Mo<g ref="char:EOLhyphen"/>deſtie, if they could light vpon it: and by my younge Ma<g ref="char:EOLhyphen"/>ſters leaue, ſome pritty ſmacke of diſcretion would reliſh well. The Athenians were noted for lauiſh amplifieng<g ref="char:punc">▪</g> the Cretenſians for craftie lying, the Theſſalians for ſub<g ref="char:EOLhyphen"/>tle cogging: the Carthaginians for deceitfull perfidie: <hi>Hanniball, Fabius, Agathocles, Iphicrates, Vliſſes,</hi> and a thou<g ref="char:EOLhyphen"/>ſand ſuch, for counterfeit pollicie, but all their forgeries were ſeaſoned with the ſalt of probabilitie, &amp; onelie vſed at occaſions of aduauntage: and although the Grecians generallie were ouer-lightheaded, and vaine-ſpoken, yet their leuitie ſauored of elegant wittineſſe, and the flying birde carried meate in the mouth. Euen Lucians true Tales are ſpiced with conceite: and neither his, nor Apu<g ref="char:EOLhyphen"/>leius Aſſe, is altogether an Aſſe. It is a piece of cunning in the moſt fabulous Legends, to interlace ſome credible narratio<g ref="char:cmbAbbrStroke">̄</g>s, &amp; verie probable occurrences, to countenance and authorize the exceſſiue licentiouſneſſe of the reſt. Vnreaſonable fictions palpably bewray their odious groſ<g ref="char:EOLhyphen"/>neſſe: and hee that will be a famous deuiſer in folio, muſt be content with the rewarde of a notable Lier, not to be credited, when he auoweth a trueth. The pleaſant man tal<g ref="char:EOLhyphen"/>keth of a Batchelers hoode, turned ouer his eares, for abuſing of Ariſtotle: and imagineth goodlie matters of caſting the Heauens water: of an atomizing the skies in<g ref="char:EOLhyphen"/>trailes: of the vniuerſal adulterie of Planets<g ref="char:punc">▪</g> of the bawd of thoſe celeſtial bodies<g ref="char:punc">▪</g> how Saturne, &amp; Iupiter proued ho<g ref="char:EOLhyphen"/>neſter men, then al the world took the<g ref="char:cmbAbbrStroke">̄</g> for<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o braue Tarlton
+<pb n="34" facs="tcp:4033:19"/>
+thou wert hee, when all is done, had not Aretine bene A<g ref="char:EOLhyphen"/>retine, when he was, vndoubtedlie thou hadſt beene A<g ref="char:EOLhyphen"/>retine, gramercy capricious, and tranſcendent witte, the onelie high Pole Artique<g ref="char:punc">▪</g> and deepe Minerall of an inco<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>parable ſtile. Yet Tarltons leſts not ſufficient: but Roſcius muſt haue his Stale, to make him more admirable<g ref="char:punc">▪</g> al were nothing, vnleſſe Eldertons ale-crammed noſe, had beene conſumed to nothing, in beare-baiting him, with whole bundels of ballats: that forſooth is not ſo good a gentle<g ref="char:EOLhyphen"/>man, (for euery heire of a Naſh is a good gentleman at the leaſt as the heard of Thomas Naſh, the maiſter butler of Pembrooke Hal whoſe graue countenance, like Cato able to make him runne out of his wittes for feare, if he looke ſternely vpon him, and I wot not what, and what trumpe<g ref="char:EOLhyphen"/>rie elſe, as childiſh, &amp; gariſh ſtuffe, as euer came in print, yet what packe of vanity is not in print, I will not cry, Ab<g ref="char:EOLhyphen"/>ſurde, Abſurde: as hee madly exclaimeth, Monſtrous, Monſtrous: But who in that Vniuerſity can deny, but M. Haruey read the publike Philoſophie Lecture with ſpe<g ref="char:EOLhyphen"/>cial good liking, and many will ſay with ſingular comme<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>dation, when this mightie laſhing Gentleman (now well read in the late exploites of Vntruſſe, and for Tarletons amplifications A perfe A) was not ſo much as <hi>idoneus audi<g ref="char:EOLhyphen"/>tor ciuilis ſcientia.</hi> What hee is improued ſince, excepting his good olde <hi>Flores Poetarum,</hi> and Tarletons ſurmoun<g ref="char:EOLhyphen"/>ting Rhetorique, with a little Euphuiſme, and Greeneſſe inough, which were all prettily ſtale, before he put hand <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o penne. I report me to the fauourableſt opinion of thoſe that know his Prefaces, Rimes, and the very Timpanye of his Tarltonizing wit, his Supplication to the Diuell, oh that is the Diuell &amp; al. I am ſo farre from doting vppon mine owne, or my Brothers Writinges, in any matter of
+<pb n="35" facs="tcp:4033:19"/>
+moment, that I vſe to cenſure them with a more curious and rigorous iudgement, then I examine any thing elſe, wherein my eare is ſo loath to flatter me, &amp; my con<g ref="char:EOLhyphen"/>ceit ſo affraid to coſen me, that my mind euer remaineth vnſatisfied, &amp; nothing hitherto could fulfill my deſire, in<g ref="char:EOLhyphen"/>ſatiably couetous to do better. But as thoſe perfunctorie Diſcourſes are, (which were more haſtilie, then ſpeedilie publiſhed without my priuity) let the beſt of them goe for waſt paper, &amp; ſerue the baſeſt ſhops, if the worſt of them importe not more publike, or priuate vſe, then his gayeſt<g ref="char:EOLhyphen"/>flower, that may thanke <hi>Greene, &amp; Tarlton</hi> for his Garland. Were my brother, not my brother, but ſome familiar ac<g ref="char:EOLhyphen"/>quaintance, I might in Trueth, &amp; ſhould in Reaſon, make other compariſons, with applauſe inough: (for what in<g ref="char:EOLhyphen"/>differencie ſeeth not the difference? or what ſo ſilly, as he could make Pierce, with voice, or pen? notwithſtanding thoſe Miracles of the white rauen in the cloudes): But the Vniuerſitie, the Cittie, the whole Realme, all good Lear<g ref="char:EOLhyphen"/>ning, &amp; ciuil Gouernement, be their Iudge, &amp; my mouth eſpecially in this Martiniſh and Counter-martiniſh age: wherein the Spirit of Contradiction reigneth, and euerie one ſuperaboundeth in his owne humor, euen to the an<g ref="char:EOLhyphen"/>nihilating of any other, without rime, or reaſon. Some would bee Mutes, if they might bee ſuffered to be, as were meeteſt for them, and onelie to dwell in the excellente monuments of diuine wittes, whoſe ſweet company they cannot enioy inough, but what is to be done, when vo<g ref="char:EOLhyphen"/>wels are courſed, &amp; Mutes haunted, and that heauenlie conference helliſhlie diſturbed, God, or good Order, cir<g ref="char:EOLhyphen"/>cumciſe the Tongues, and Pennes, that ſlaunder without <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auſe, and raile without effect, euen in the ſuperlatiue de<g ref="char:EOLhyphen"/>gree of rauing. Aretine, and the Diuels Oratour might
+<pb n="36" facs="tcp:4033:20"/>
+very-well bee ſpared in Chriſtian, or Piliticke Comon<g ref="char:EOLhyphen"/>wealthes: which cannot want contagion inough, though they bee not poyſened with the venemous potions of Inckhorne witches. Fine pleſant witt was euer commen<g ref="char:EOLhyphen"/>dable: and iudiciall accuſation lawfull: but fie on groſſe ſcurility, and impudent calumny: that wil rather goe to Hell in ieſt, then to heauen in earneſt, and ſeeke not to re<g ref="char:EOLhyphen"/>forme any vice, to backebite, and depraue euery perſon, that feedeth not their humorous fancy, A vile mind: and what a peſtelenter villany? but ſome odd wittes forſooth, will needes bee accompted terrible Bull Beggars, and the onely Killcowes of their age: for how ſhould they other<g ref="char:EOLhyphen"/>wiſe keepe the ſimple world in awe: or ſcare multitudes of plaine folke, like idiot crowes, and innocent dooues? All the Inuectiue, and Satyricall Spirites, are their Fami<g ref="char:EOLhyphen"/>liars: ſcoffing, and girding is their daily bread: other pro<g ref="char:EOLhyphen"/>feſſe other faculties: they profeſſe the Arte of railing: Noble, Reuerend, or whatſoeuer, al peſants, and clownes: gowty Diuels, and buckram Giants: Midaſſes, and gol<g ref="char:EOLhyphen"/>den Aſſes: Cormorants, and Drones, Dunces, and hy<g ref="char:EOLhyphen"/>pocriticall hoat ſpurres Earth-wormes, and Pinchefart Penny-fathers: that feede not their hungry purſes, and eager ſtomackes: they haue termes, quoth a maruellous doer, ſteeped in <hi>Aqua Fortis,</hi> and Gunnepouder, that ſhal rattle through the skies, and make Earthquakes in ſuch peſauntes eares, as ſhall dare to ſende them awaie with a flea in their eare: (howe might a man purchaſe the ſight of thoſe puiſſant, and hideous termes?) they can laſh poore ſlaues, and ſpurgall Aſſes mightily, they can tell parlous Tales of Beares and Foxes, as ſhrewdlye as mo<g ref="char:EOLhyphen"/>ther Hubbard, for her life: they will dominiere in Ta<g ref="char:EOLhyphen"/>uernes, and Stationers ſhops, to die for't: they will be as
+<pb n="37" facs="tcp:4033:20"/>
+egregiouſlly famous, as euer was <hi>Herastratus,</hi> or <hi>Pauſanias,</hi> or <hi>Kett,</hi> or <hi>Scoggin: Agrippa,</hi> and <hi>Rabelays</hi> but Ciphers to them: they haue it onely in them. Would Chriſt, they had more diſcretion in them, and leſſe rancour againſt other, that neuer wiſhed them the leaſt euill, but ſtill beſeech GOD to encreaſe the beſt, and to pardon the worſt in them. The Quippe knoweth his rewarde, and the Supplication to the Diuell, expreſſly dedicated to the Prince of Darkeneſſe, I comitte to the cenſure of Wiſedome, and Iuſtice, with fauour: onelye requeſting that mightie Bombarder of termes, to ſpare quiet men that meane him no harme, and to keepe the huge maine; ſhot of his ratling Babies for Buckrame Giants. Alaſſe,-what ſhould I touch their parents, or twit the<g ref="char:cmbAbbrStroke">̄</g> by their o<g ref="char:EOLhyphen"/>ther friendes: Let it be one of their iolities to offer, &amp; one of our ſimplicities to ſuffer that iniury: which neither im<g ref="char:EOLhyphen"/>paireth the reputation of the Father: nor abaſeth the cre<g ref="char:EOLhyphen"/>dite of the Sonnes: nor argueth any thing, but the im<g ref="char:EOLhyphen"/>pudente deſpightfulneſſe of the Libeller. Fewe Sonnes haue felinger cauſe to loue, or reuerence, or defend their Fathers, then my ſelfe: but his dealing is ſuch, where he tradeth: and his liuing ſuch where he conuerſeth, that he may eaſely ſhame himſelfe, which goeth-about to ſhame him, or vs in him. I will not trouble you with the rehear<g ref="char:EOLhyphen"/>ſall of his inheritance, which I could haue wiſhed more then it was, yet was it more, by the fauour of that terri<g ref="char:EOLhyphen"/>ble Thunderſmith of termes, the<g ref="char:cmbAbbrStroke">̄</g> the inheritances of both their Fathers together. Put caſe, I haue inquired, what ſpeciall cauſe the Pennileſſe Gentleman hath, to bragge of his birth: which giueth the woefull poueretto good leaue, euen with his Stentors voice, &amp; in his ratling terms to reuiue the pittifull hiſtorie of Don Lazarello de Thoe<g ref="char:EOLhyphen"/>mes:
+<pb n="38" facs="tcp:4033:21"/>
+to contend with colde, to conuerſe with ſcarcitie: to be laid-open to pouertie: to accuſe Fortune: to raile on his patrons, to bite his penne, to rend his papers, to rage in all points, like a mad man, to totment himſelfe in that agony a long time, to be miſerable, to be <hi>vacuus viator:</hi> to haue <hi>opus and vſus</hi> knocking at his doore twenty times a weeke, when he is not within: to ſeek his dinner in poules with Duke humfrey: to licke diſhes, to be a beggar.</p>
+            <p>
+               <q>
+                  <l>To ban the Aire, wherein he breathes A wretch:</l>
+               </q>
+to be the Diuelsdiſtreſſed Orator, to proclaime his owne deſolate and abiect eſtat, in theſe &amp; ſuch other moſt-baſe, and ſhamefull complaints, ſcarcely beſeeming the raſcal<g ref="char:EOLhyphen"/>leſt ſiſer in an Vniuerſity, or the beggarlieſt mendicant frier in a country.</p>
+            <p>
+               <q>
+                  <l>Forgiue him God, although he curſe his birth.</l>
+               </q>
+I, but who ſo exceſſiuely thankefull to his other friends? One kind freend, more worth then two vnfreendlie kinſe<g ref="char:EOLhyphen"/>men. Affection will relieue, where nature faileth: he muſt needes abound in deuoted and bountifull freendes, that ſheweth himſelfe ſo meritoriouſly freendlie, and ſo vn<g ref="char:EOLhyphen"/>ſpeakeably gratefull.</p>
+            <q>
+               <l>O friendes, no friendes, that then vngentlie frowne,</l>
+               <l>When changing fortune caſts vs headlong downe</l>
+            </q>
+            <p>I had nigh-hand ouer-skipped the learned allegation in the margine, ſolemnely auouched with a very-patheti<g ref="char:EOLhyphen"/>call Pol, <hi>Polme occidiſtis Amici.</hi> All which, and moſt of the Premiſſes, I had altogether omitted, but that the two vn<g ref="char:EOLhyphen"/>meete Companions, a Lordes heart, and a beggars purſe muſt ſomewhat remember themſelues, or be a little, as it were pulled by the ragged ſleeue. Young ſchollers can tel how Vlyſſes handeled <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rus, and olde Truants haue not al<g ref="char:EOLhyphen"/>together forgotten, howeſawſie the Harpies were, till
+<pb n="41" facs="tcp:4033:21"/>
+they were interteined accordingly. But what though the decayed Gentleman, ſo commendeth his owne woorſhip<g ref="char:EOLhyphen"/>full birth, and truſty freendes? Many noble Houſes haue ſeene their own ruines: and ſometime the brothers of the Prodigall Sonne, will not ſtick to curſe, wher they ſhould reuerently bleſſe. The Table-fellow of Duke Humfrey, &amp; Tantalus, might learne of him to curſe Iupiter, and to ban not onely the four Elementes, but alſo the ſeauen Planets, and euen the twelue houſes of Heauen. And what though the other ſorry Magnifico, as very a Biſonian, as he for hys life, would ſweare in a brauery, his Father was of foure &amp; twenty religions: and himſelfe a Diuine from his mothers womb: an Image of both Churches, &amp; both Synagogues too: a naturall Perne artificially emproued: the thriſe-and thriſe-learned ſonne, of his foure &amp; twenty times-learned father? So <hi>Greene</hi> would flouriſh. Euery man is to anſwere for hys owne defaultes: my treſpaſſe is not my fathers, nor my fathers mine: A Gibeline may haue a Guelph to his ſonne, as Barthol ſaith: &amp; hath neuer a Saint had a Repro<g ref="char:EOLhyphen"/>bate to his father? are all worthy minds, the iſſues of noble houſes: or all baſe mindes, the ofſprings of raſcall ſtockes? Were it not a felicity, to be the woorſt of a thouſande, that being deſcended of meaneſt parentage, haue prooued, as Hiſtories teſtify, &amp; the world daily confirmeth? Or might not Greene, and his Complices, haue beene much better, then they were, or are, although their Parentes had beene much worſe, then they were, or are? What faith the affli<g ref="char:EOLhyphen"/>cted Suppliant himſelfe?</p>
+            <q>
+               <l>Ah woorthleſſe wit, to traine me to this woe:</l>
+               <l>Ill thriue the Folly, that bewitch'd me ſo.</l>
+            </q>
+            <p>Haue we not a nomber of excellente induſtrious men and valorous knights, not greatly beholding vnto Fortune
+<pb n="42" facs="tcp:4033:22"/>
+for their progeny?</p>
+            <p>
+               <hi>Malo pater tibi ſit Therſites,</hi> who knoweth not that onely Arte of Heraldry?</p>
+            <p>
+               <hi>Quàmte Therſitae ſimilem producat Achilles.</hi> The Argument of Nobility, is a gallant, and plauſible argument: but what Common-place ſo braue, and honourable, as the Com<g ref="char:EOLhyphen"/>mon-place of vertue? Can any thinge bee obſcure, where deſert is famous: or any thing famous, where deſert is ob<g ref="char:EOLhyphen"/>ſcure? Gramercy ſweete margine, for that notable Poeſy: <hi>Meritis expendite cauſam:</hi> in earneſt, a ſingular Rule of in<g ref="char:EOLhyphen"/>fallible iudgemente: and I imagine, himſelfe deſerueth ſomethinge, that ſpecially alleadgeth Deſerte. It is longe, ſince I declaimed vpon any Theame: but who would not pleade Vertues cauſe, in whatſoeuer ſubiecte? or what ho<g ref="char:EOLhyphen"/>neſt Eloquence is not furniſhed with Catilinaries, &amp; Phil<g ref="char:EOLhyphen"/>lippiques againſt Vice? Not the Father, &amp; the Sonne, but Vertue, and Vice, the efficientes of Honour, and Diſho<g ref="char:EOLhyphen"/>nour. He onely baſe, he onely ſimple, he onely contemp<g ref="char:EOLhyphen"/>tible, that hath Vice to his father, &amp; Ignoraunce to his mo<g ref="char:EOLhyphen"/>ther: the onely Parentes of raſcality. And may I not truly affirme, that not only Oſorius, or Patritius gallantly proue, but all wiſe Autors ſeriouſly approue, and euen Vertue, &amp; Skill themſelues, with their owne ſoueraine mouth, hono<g ref="char:EOLhyphen"/>rably profeſſe? No right ſonne, &amp; heire apparant of theirs, either vnnoble in himſelfe, or obſcure in the world: or de<g ref="char:EOLhyphen"/>ſpiſed in the higheſt, or vnregarded of the loweſt<g ref="char:punc">▪</g> or diſho<g ref="char:EOLhyphen"/>norable in his Life, or inglorious after his Death. I ſpeake not for any perſon, but for the matter: and cannot eyther condignely praiſe the valorous ſeede of the one: or ſuffi<g ref="char:EOLhyphen"/>ciently bliſſe the fruitfull wombe of the other. And what ſo vngentle in Nature, or ſo vnnoble in Fortune, as their Con<g ref="char:EOLhyphen"/>traries: how barbarouſly oppoſed againſt that diuine race,
+<pb n="43" facs="tcp:4033:22"/>
+and heauenly generation: that cannot ſturre, vnaccompa<g ref="char:EOLhyphen"/>nied with Enuy, and a worlde of moates? Yet neither the vnhappieſt creature vtterly deuoide of all graces: (I praiſe ſomethinge in Elderton, and Greene:) nor the excellenteſt perſonage thoroughly accompliſhed with all perfections: (ah, that Sir <hi>Humfrey Gilbert,</hi> and Sir <hi>Phillip Sidney,</hi> hadd bene as cautelous, as aduenturous:) nor they, that obiect, nor we, that anſweare, nor any, but a few ſingular men, the Miracles of the world; either for wit wondrous, or for Art exquiſite, or for action admirable, or for integrity notable. I<g ref="char:punc">▪</g>wis, we little neede, to be charged with our fathers offen<g ref="char:EOLhyphen"/>ces: it is inough for one, yea for the beſt one, to carry the burthen of his owne tranſgreſſions, and errours. Errours are infinite: and follies how vniuerſally rife, euen of the wiſeſt ſorte? Oh that vertues were as like the ſtarres of heauen, or the birds of the Aire, as vices are like the ſandes of the Sea, and the Beaſtes of the Earth: hee that ſeeith leaſte, ſeeith much amiſſe: the fine Diſcouerer, and curious Intelligen<g ref="char:EOLhyphen"/>cer, goe inuiſible, &amp; ſtratagematically diſcry many hidden priuities of publique, and priuate miſgouernment: there is an eie, that pierceth into the ſecreteſt ſinnes, and moſt-in<g ref="char:EOLhyphen"/>ſcrutable thoughtes of profoundeſt Hypocriſy: in whoſe pure ſight nothing is iuſtifiable, but by pardon. Diuinity flyeth highe: and wadeth deepe: But euen in Humanity, &amp; in the view of the world, who liueth inculpable? or who is not obnoxious to ſome criminall, or ciuill actions? or,</p>
+            <q>
+               <l>Wher ſhud I find, that I ſeeke, A perſon cleere as a Chriſtal?</l>
+               <l>Where man God to man? where one not Diu'l to an other?</l>
+               <l>Where that Zeal diuine, whoſe heauenly Sunſhin acheerith</l>
+               <l>The dreryeſt drouping: and felliſt rancor alayeth?</l>
+               <l>Where thoſſame mealting bowels of tender agreement,</l>
+               <l>That mildly conquer moſt-rowgh, and hideous outrage?</l>
+               <pb n="42" facs="tcp:4033:23"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="43" facs="tcp:4033:23"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <l>
+                  <pb n="44" facs="tcp:4033:24"/>
+Where Moſes meeknes? wher Dauids ſweetnes Olimpique?</l>
+               <l>Where that ſame gentle kindnes, that bounty renowned,</l>
+               <l>That gratious fauour, that whilom bewtifi'd Honour:</l>
+               <l>That Looue aduanced: that abandoned odious Hatred:</l>
+               <l>That Sirenized Furies: that rocks Adamantine</l>
+               <l>Mollifid: arreared Pillars of Glory triumphant?</l>
+            </q>
+            <p>And ſo foorth: for the verſe is not vnknowen: &amp; run<g ref="char:EOLhyphen"/>neth in one of thoſe vnſatyricall Satyres, which M. <hi>Spencer</hi> long ſince embraced with an ouerloouing Sonnet: A to<g ref="char:EOLhyphen"/>ken of his Affection, not a Teſtimony of hys<g ref="char:punc">▪</g> Iudgement. What ſhould I labour a needleſſe point? or what ſhould I weary you with tediouſneſſe, that may much-better be<g ref="char:EOLhyphen"/>ſtow your vacant houres? Enough, to any is inough: to ſome, ouer-much. God knoweth, and who knoweth not, how ſenſually corrupt ſome good fellowes were, and are, that ſo ſharpely, and bitterly noted, and do note, ſo many imaginatiue corruptions in other. Would God, they had bene as quietly diſpoſed, as their parentes: or as aduiſedly ſtayed, as ſome of their frendes, that wiſhed them a milder courſe; &amp; ſome of our pens might haue bene employed to better vſe, then this idle buſineſſe, or rather buſy idle<g ref="char:EOLhyphen"/>neſſe. Wherof I deſire no other fruite, but ſome little con<g ref="char:EOLhyphen"/>tentation of friendes, and ſome reaſonable mittigation of ill-willers: vnto whoſe good I am diligently to addreſſe, &amp; euen affectionately to dedicate any my endeuour. If in ſome tearmes I haue vſed a little plaine dealing, albeit not without reſpecte, (but euery one ſeeith not into an others conſiderations: &amp; diuers Circumſtances alter the caſe) I craue pardon for the leaſt ouerſight: and will be as ready to commend any little good, euen in an aduerſary: as I was vnwillinge. but enforced to touch ſoome palpable badd: which I would wiſh amended, where it may be redreſſed:
+<pb n="45" facs="tcp:4033:24"/>
+and quite forgotten, where it ought to be buried. My mea<g ref="char:EOLhyphen"/>ning was not, to diſpleaſure, or diſcredite any: but onely to ſatisfie the pleaſure, and mainetaine the credite of thoſe, vn<g ref="char:EOLhyphen"/>to whome I owe many dueties, aſwell in ſpeciall conſide<g ref="char:EOLhyphen"/>ration, as in naturall affection. Had I not bene more depely ſtinged in them, then in my ſelfe: who haue made Come<g ref="char:EOLhyphen"/>dies of ſuch Tragedies; and with pleaſure giuen ſuch hoat<g ref="char:EOLhyphen"/>ſpurres leaue, to run themſelues out of breath: what folio of folly might not for me haue paſſed vntouched? or who for me, might not haue flouriſhed, or laſhed in Poules Church yarde, <hi>Cum gratia &amp; Priuilegio?</hi> It were good, that they, which haue a dexterity in writing trimly vppon euery mat<g ref="char:EOLhyphen"/>ter, white, or blacke: ſhould alſo haue a felicity in ſpeaking well vppon euery perſon, that deſerueth not ill: eſpecially ſuch as can ſay ſomething, and thinke more. The terribleſt tearmes may be repayed-home with aduauntage: I haue knowen the raylingeſt Sophiſter in an Vniuerſity, ſett <hi>non plus:</hi> and haue ſeene the mad-brayneſt Roiſter-doiſter in a countrey, daſhte out of countenaunce. There is Logicke i<g ref="char:EOLhyphen"/>nough, to aunſweare Carters Logicke: and playe inough, to tame Horſe-play. Wronged men are ſeldome tounge<g ref="char:EOLhyphen"/>tied: the patienteſt Creature wanteth not bloud in his hart, or incke in his penne: and although his bloud be not wild<g ref="char:EOLhyphen"/>fire, yet it is bloud; that will not be cooled with a Carde, or daunted with bugs-wordes: and although his incke, be not pitch, or poiſon, yet it is incke; that will neither bluſhe for ſhame, nor waxe pale for feare; but will holde his owne, when perhaps gayer coullours ſhal looſe their coullor; and <hi>Aqua fortis</hi> valiantly eate his owne harte. Good ſweete Ma<g ref="char:EOLhyphen"/>ſters quiet your ſelues: or thincke not much, to beare a lit<g ref="char:EOLhyphen"/>tle for company, that are ſo forward to load other without mercy. No man loather then my ſelfe, to contend with de<g ref="char:EOLhyphen"/>ſperate
+<pb n="46" facs="tcp:4033:25"/>
+Malecontentes: or to ouerthwart obſtinate Humo<g ref="char:EOLhyphen"/>riſtes: or to encounter Incke-horne Aduentures: nor to quarrell with any ſorte of wrangling Companions: (skol<g ref="char:EOLhyphen"/>dinge is the language of ſhrewes: and raylinge the ſtile of Rakehells:) or ſo much as to call buſy heads, by their vſu<g ref="char:EOLhyphen"/>all, and proper names: (the thinges are paltry: and the ve<g ref="char:EOLhyphen"/>ry names ſauour of raſcallity:) but there is a time, when ſuch douty warriours muſt be appeaſed; &amp; ſuch wiſe men anſweared according to their wiſedome. Howbeit, in fa<g ref="char:EOLhyphen"/>uour of a priuate, and publike quietneſſe, I will thanke the honeſt fellowes the more, the leſſe occaſion they geue me, to interrupt better exerciſes: to trouble the world with tri<g ref="char:EOLhyphen"/>flinge diſcourſes vppon peltinge matters: to diſeaſe them<g ref="char:EOLhyphen"/>ſelues: to pleaſure none, but the printer, &amp; idle creatures, the onely buſy readers of ſuch Nouellets. I would gladly be ſpecially beholdinge vnto them for this courteſy: and dare vndertake it ſhall redounde more to their credite, to approue their deſire of reconciliation, by ſilence: then to continue the opinion of their rooted deſpight, by ſturring more coales. I hope this winde hath not ſhaken any ſuche corne, but fellow-ſchollers, (as Doctor Caius would ſay) and now forſooth fellow-writers, may bee made friendes, with a cup of white wine, and ſome little familliar confe<g ref="char:EOLhyphen"/>rence, in calme and ciuile termes. I offer them my hande: and requeſt their: which I will accept thanckfully: &amp; kiſſe louinglye: and euer commende the good Nature, that would; and the better Gouernemente, that coulde maſter Affection with Reaſon, and ſweeten gall with Humanity. For it is not my energeticall perſuaſion, but their owne pa<g ref="char:EOLhyphen"/>theticall motion, that muſt doe it: as the enchanting Muſe of Orpheus redeemed the ghaſtly ghoſt of his owne Euri<g ref="char:EOLhyphen"/>dice out of Hell. Such an Experimente of profounde, and
+<pb n="47" facs="tcp:4033:25"/>
+diuine Arte, as I woulde compaſſionately recommend to euery amiable minde, diſguiſed with helliſhe paſſion: the fouleſt deformity of any fayre wit. Otherwiſe, if it ſtande more with their credite, to be reputed willfull, then wiſe: or if a peruerſe, and froward reſolution, be the better polli<g ref="char:EOLhyphen"/>cy: they are free-men: and haue incke at will, and paper at commaundement: and a number of greedy Eares, that e<g ref="char:EOLhyphen"/>gerly longe, and as it were daunce attendaunce, to heare thoſe dreadfull inuincible termes, ſteeped in <hi>Aqua fortis,</hi> &amp; Gunpowder. The intoxicate ſprite of the griſly Euridice (I ſpeake to a Poet: and cannot more mildly terme that in<g ref="char:EOLhyphen"/>fernall Fury) may eftſoones returne to her accurſed lod<g ref="char:EOLhyphen"/>ginge, and in ſteede of heauenly Orpheus, embrace the helliſh Oratour of the Blacke Prince: whome I will not any way make worſe, but wold wiſh infinitely better, then he hath made himſelfe. For I thancke God, Iam neither ſo profanely vncharitable, as to ſend him to the Sancebell, to truſſe-vp his life with a trice: nor ſo abiectly timorous, as for extreme fearefulnes to wiſh, with a profeſſed deuotion: So be it: Pray Penne, Incke, and Paper on their knees, that they may not bee troubled with him any more. Good Lorde, what fantaſticall panges are theſe? who euer en<g ref="char:EOLhyphen"/>dighted in ſuch a ſtile, but one diuine <hi>Aretine</hi> in Italy, &amp; two heauenly <hi>Tarletons</hi> in England: the ſole platformers of odd Elocution, and onely ſingularities of the plaine worlde? Two of them, that ſo wantonly played with the higheſt and deepeſt ſubiectes of ſpirituall contemplation: Heauen, and Hell, Paradiſe, and Purgatory: know their locall repoſe: and ſeriouſly admoniſh the third, to be ad<g ref="char:EOLhyphen"/>uiſed, how he lauiſh in ſuch dalliance. No variety, or infi<g ref="char:EOLhyphen"/>nity ſo infinite, as Inuention: which hath a huge worlde, and a maine Ocean of ſcope, to diſport, and raunge it ſelfe,
+<pb n="48" facs="tcp:4033:26"/>
+though it arreare not vayne Hyperboles of the reuerende myſteries of God. Good ſweete Oratour, be a deuine Poet indeede: and vſe heauenly Eloquence indeede: and em<g ref="char:EOLhyphen"/>ploy thy golden talent with amounting vſance indeede: and with heroicall Cantoes honour right Vertue, &amp; braue valour indeede: as noble Sir Philip Sidney, and gentle Maiſter Spencer haue done, with immortall Fame: and I will beſtow more complements of rare amplifications vp<g ref="char:EOLhyphen"/>on thee, then euer any beſtowed vppon them: or this Tounge euer affoorded: or any Aretiniſh mountaine of huge exaggerations can bring-foorth. Right artificiality, (whereat I once aimed to the vttermoſt power of my ſlen<g ref="char:EOLhyphen"/>der capacity,) is not mad-brained, or ridiculous, or abſurd, or blaſphemous, or monſtrous: but deepe-conceited, but pleaſurable, but delicate, but exquiſite, but gratious, but admirable: not according to the fantaſticall mould of <hi>A<g ref="char:EOLhyphen"/>retine,</hi> or <hi>Rabelays,</hi> but according to the fine modell of <hi>Or<g ref="char:EOLhyphen"/>pheus, Homer, Pindarus,</hi> &amp; the excellenteſt wittes of Greece, and of the Lande, that flowed with milke, and hony. For what Feſtiuall Hymnes, ſo diuinely dainty, as the ſweete Pſalmes of King Dauid, royally tranſlated by <hi>Buchanan?</hi> or what ſage Gnomes, ſo profoundly pithy, as the wiſe Prouerbes of King Salomon; notably alſo tranſlated: but how few Buchanans? Such liuely ſpringes of ſtreaming E<g ref="char:EOLhyphen"/>loquence: &amp; ſuch right-Olympicall hilles of amountinge witte: I cordially recommend to the deere Louers of the Muſes: and namely to the profeſſed Sonnes of the-ſame; <hi>Edmond Spencer, Richard Stanihurſt, Abraham France, Tho<g ref="char:EOLhyphen"/>mas Watſon, Samuell Daniell, Thomas Naſh,</hi> and the reſt: whome I affectionately thancke for their ſtudious ende<g ref="char:EOLhyphen"/>uours, commendably employed in enriching, &amp; poliſhing their natiue Tongue, neuer ſo furniſhed, or embelliſhed,
+<pb n="49" facs="tcp:4033:26"/>
+as of-late. For I dare not name the Honorabler Sonnes, &amp; Nobler Daughters of the ſweeteſt, &amp; diuineſt Muſes, that euer ſang in Engliſh or other language: for feare of ſuſpi<g ref="char:EOLhyphen"/>tion of that, which I abhorre: and their owne moſt dele<g ref="char:EOLhyphen"/>ctable, and delicious Exerciſes, (the fine handy-worke of excellent Nature, and excellenter Arte combined) ſpeake incomparably more, then I am able briefly to inſinuate. Gentle mindes, and flouriſhing wittes, were infinitely to<g ref="char:EOLhyphen"/>blame, if they ſhould not alſo for curious imitation, pro<g ref="char:EOLhyphen"/>poſe vnto themſelues ſuch faire Types of refined, and en<g ref="char:EOLhyphen"/>graced Eloquence. The right Noouice of pregnante, and aſpiring conceit, wil not ouer-skippe any precious gemme of Inuention, or any beautifull floure of Elocution, that may richly adorne, or gallantly bedecke the trimme gar<g ref="char:EOLhyphen"/>land of his budding ſtile. I ſpeake generally to euery ſprin<g ref="char:EOLhyphen"/>ging wit: but more ſpecially to a few: and at this inſtante ſingularly to one: whom<g ref="char:punc">▪</g> I ſalute with a hundred bleſſings: and entreate with as many prayers, to loue them, that loue all good wittes: and hate none, but the Diuell, and his in<g ref="char:EOLhyphen"/>carnate Impes, notoriouſly profeſſed. I proteſt, it was not thy perſon, that I any-way diſliked: but thy raſh, and deſ<g ref="char:EOLhyphen"/>perate proceeding againſt thy well-willers: which in ſome had bene vnſufferable: in an youth, was more excuſable: in a reformed youth is pardonable: and rather matter of concordance, then of aggrieuance. I perſuade my ſelfe, ra<g ref="char:EOLhyphen"/>ther to hope the beſt, then to feare the worſt: &amp; euer wiſh vnto other, as I would wiſh other, to wiſh vnto mee. It is my earneſt deſire, to begin, and ende ſuch friuolous alter<g ref="char:EOLhyphen"/>cations at once: and were it not more for other, then for my ſelfe, aſſuredly I would be the firſt, that ſhould cancell this impertinent Pamflet: and throw the other twoo Let<g ref="char:EOLhyphen"/>ters, with the Sonnets annexed, into the fire. Let them
+<pb n="50" facs="tcp:4033:27"/>
+haue their ſwinge, that affect to be terribly ſingular: I deſire not to be a blacke Swanne: or to leaue behind me any Pe<g ref="char:EOLhyphen"/>riod in the ſtile of the Diuels Oratour: or any verſe in the vaine of his Dammes Poet: but rather couet to be nothing in printe, then any thinge in the ſtampe of needeleſſe, or fruitleſſe Contention. As I am ouer-ruled at this preſente, and as it ſtandeth now: I am not to be mine owne Iudge, or Aduocate: but am contente to bee ſentenced by euery courteous, or indifferente peruſer, that regardeth honeſty in perſons, or trueth in teſtimonies, or reaſon in cauſes. Or ſeeing ſome matters of Fame are called in queſtion: I am not onely willing, but deſirous to vnderlye the verdicte, e<g ref="char:EOLhyphen"/>uen of Fame her-ſelfe; and to ſubmit our whole credites, to the voice of the people, as to the voice of Equity, and the Oracle of God: to whoſe gratious fauours he recom<g ref="char:EOLhyphen"/>mendeth your Courteſy, that neither flattereth the beſt: nor ſlaundereth the woorſt: nor willfully wrongeth any: but profeſſeth duety to his ſuperiours: humanity to his e<g ref="char:EOLhyphen"/>quals: fauour to his inferiours: reaſon to all: And by the ſame Rule, oweth you amends for the premiſſes: not ſpe<g ref="char:EOLhyphen"/>dily diſpatched, but haſtily bungled-vp, as you ſee.</p>
+            <closer>
+               <dateline>Lon<g ref="char:EOLhyphen"/>don: <date>this 8. and 9. of September.</date>
+               </dateline>
+               <signed>The frend of his frendes, &amp; foe of none.</signed>
+            </closer>
+         </div>
+         <div n="4" type="letter">
+            <pb n="51" facs="tcp:4033:27"/>
+            <head>The Fourth Letter.</head>
+            <head type="sub">To the ſame fauourable, or indifferent Reader.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Oneſt Gentlemen (for vnto ſuch I eſpecially write) giue me leaue in this ſlender Pamflet, onely to fulfill the im<g ref="char:EOLhyphen"/>portune requeſtes of a fewe: with your ſmall delighte, and mine owne leſſe contentmente: and pardon mee, though I no way affect to feede the dainty humour of curious conceites, carried with an inſatiable expectation of I wot not what imagined perfe<g ref="char:EOLhyphen"/>ction: which may eaſely diſplay it ſelfe, wher it is, but cannot poſ<g ref="char:EOLhyphen"/>ſibly appeere, where it is not. I preſume, I cannot leſſe ſatisfie any, then I haue ſatisfied my ſelfe: who hauing wedded my ſelfe to pri<g ref="char:EOLhyphen"/>uate ſtudy, and deuoted my mind to publike quietneſſe, tooke this troubleſom penne in hand, with ſuch an alacrity of courage, as the ſorry Beare goeth to the ſtake: &amp; now reioyce in that, which with more haſt, then ſpeede is diſpatched; as AEſops Hart, with more affection, then reaſon, gloried in his Hornes, till he found his fugi<g ref="char:EOLhyphen"/>tiue legges, his ſurer friends. For in many caſes, I take it a better Pollicy, to vſe the flying Legge, then the cumberſome Horne: and at this inſtant, I ſhould much more haue pleaſed my ſelfe, if I had still practiſed my former reſolution, to ſcorne the stinginge of a pieuiſh waſpe: or the biting of an eluiſh gnat: or the quipp of a mad companion: and rather to pocket-vp a pelting iniury, then to entangle my ſelfe with trifling buſineſſe: or any-way to accrew to the most-contemptible fellowſhip of the ſcribblinge crew, that an<g ref="char:EOLhyphen"/>noyeth this Age, and neuer more accloyed the world. Alas, he is pi<g ref="char:EOLhyphen"/>tifully beſtead, that in an Age of Pollicy, and in a world of Indu<g ref="char:EOLhyphen"/>stry, (wherein the greateſt matters of Gouernement, and Valour, ſeeme ſmall to aſpiring capacities) is conſtrained to make woefull <hi>Greene,</hi> and beggarly <hi>Pierce Pennyleſſe,</hi> (as it were a Gra<g ref="char:EOLhyphen"/>ſhopper, and a Cricket, two pretty muſitians, but ſilly creatures) the argumente of his stile: and enforced to encounter them, who onely in vanity are ſomthing: in effect, nothing: in account, leſſe
+<pb n="52" facs="tcp:4033:28"/>
+then nothinge: howſoeuer the Graſhopper enraged, would bee no leſſe then a greene Dragon: and the Cricket male-contented, not ſo little as a Blacke Bellwether: but the only Vnicorne of the Mu<g ref="char:EOLhyphen"/>ſes. Some in my caſe, would perhaps be content for their owne cre<g ref="char:EOLhyphen"/>dite, to haue them notoriouſly ſo reputed: and in cunning, would per aduenture not ſticke, to ſtraine at a Gnatt, as it were at a Ca<g ref="char:EOLhyphen"/>mell: but plain dealing vſeth no ſuch Rhethorick: they that haue Eies, can ſee: and they that haue Eares, can heare, as ſenſibly as I: and I muſt in reaſon leaue them, as in proofe I finde them: ei<g ref="char:EOLhyphen"/>ther meere Paper-bugs, and Inckehorne-pads: or a greate deale worſe: ſo far, as the Ringleaders of leaud Licentiouſnes, are more peſtilent, then the Platformers of vaine Fantaſticallity: or the poiſon of corrupted mindes, is more pernitious, then the venome of diſguiſed witts. Any ſlightneſſe, curious inough: and any coſt, too-much, vpon ſuch an argumente: a ſubiecte of loſſe to the wri<g ref="char:EOLhyphen"/>ter; of gaine to none: but duety muſt obey: and courteſy yeelde: and it is the lucke of ſome pelting Comedies, to buſy the Stage, as well as ſome grauer Tragedies. Were nothing els diſcourſiuely in<g ref="char:EOLhyphen"/>ſerted, (as ſome little elſe occaſionally preſented it ſelfe) what pa<g ref="char:EOLhyphen"/>per more currently fit for the baſeſt mechanicall vſes, then that, which containeth the vile miſdemeanours, and Truth will ſay, the abhominable villanies of ſuch baſe ſhifting companions: good for nothinge, in the opinion of good mindes, but to caſt-away them<g ref="char:EOLhyphen"/>ſelues, to ſpoile their adherentes, to pray vppon their fauourers, to diſhonour their Patrons, to infecte the Aire, where they breath. Might <hi>Pierce</hi> be entreated, to quallifye his diſtempered veine; and to reclaime his vnbrideled ſelfe: as ſome bold Gawins, vppon milder conſideration haue bene glad to doe: (good <hi>Pierce</hi> be good to thy good friendes: and gentle to thy gentle ſelfe:) I aſſuredly would be the firſt, that ſhould wrapp-vp ſuch memorials, not in a ſheete of waſt-paper, but in the winding-ſheete of Obliuion: and will not ſticke, to embalme the dead corps of a profeſſed ennemy, to
+<pb n="53" facs="tcp:4033:28"/>
+ſweeten the liuing ſpirite of a wiſhed friend: howſoeuer extreame<g ref="char:EOLhyphen"/>ly meane, or famouſly obſcure. The gratious Lawe of Amneſty, a ſoueraine Law: but the diuine Law of Charity, the Law of Lawes. Who cannot contemne the inſolenteſt arrogancy? but who muſt not condeſcend to any reaſonable accord? Hee that was neuer di<g ref="char:EOLhyphen"/>ſmayed with any neceſſary diſtreſſe, yet euer eſcheweth all vnne<g ref="char:EOLhyphen"/>ceſſary trouble: and he that leaſt feareth the ſwoord of vniuſt Ca<g ref="char:EOLhyphen"/>lumny, yet moſt dreadeth the ſcabbard of iuſt Infamy: and would gladly auoide the lighteſt ſuſpition of that, which hee abhorreth. Though the painted ſheath bee, as it is, (for it needeth no other Painter, to pourtray it ſelfe) yet neuer childe ſo delighted in his ratling baby; as ſome old Lads of the Caſtell, haue ſported them<g ref="char:EOLhyphen"/>ſelues with their rappinge bable. It is the proper weapon of their profeſsion: they haue vſed it at-large, and will vſe it at pleaſure, howſoeuer the patient heale himſelfe at their coſt. It were a worke of importance, to aunſweare that weapon: I long ſince gaue them ouer in the plaine field: and am now become a ſuter to their to<g ref="char:EOLhyphen"/>wardeſt ſchollers, to remember the glorious conqueſt of their wit<g ref="char:EOLhyphen"/>ty Maſters. I would willingly pleaſe, or not diſpleaſe, as I may: but no Life, without ſelf-contentment: no performance of any action without Reſolution. The leaſt may thinke vppon <hi>Fabius Maxi<g ref="char:EOLhyphen"/>mus:</hi> who with an honourable obſtinacy purſued the courſe of his owne platforme, notwithſtanding a thouſand empeachments: &amp; although ſlowly, with much murmuringe, yet effectually, with more reputation, atchieued his politicke purpoſe: like an experte Pilot, that in a hideous tempeſt regardeth not the fooliſhe ſhric<g ref="char:EOLhyphen"/>kinges, or vaine outcries of diſorderly paſſengers, but beſtirreth himſelfe, and directeth his marriners, according to the wiſe rules of orderly Nauigation. Awauering and fleeting minde, ſeldome, or neuer accompliſheth any negotiation of value. It is none of the leaſt comfortes in diſtreſſe, that Patience is an excellent quality: and Conſtancy the honourableſt vertue in the world. I am not to
+<pb n="54" facs="tcp:4033:29"/>
+dilate, where a ſentence is a diſcourſe, and a woorde more then inough. It hath bene my deſire, to conforme my intentions to my quality, and my exerciſes to my intentions: but as they are, it ſhall go very-hard, before I begin to abandon hope: or relente to friuolous motions: or forget my ſelfe, and my friends, to remem<g ref="char:EOLhyphen"/>ber my ennemies: who are beſt remembred, when they are moſt forgotten. Some are cunning: &amp; can imaginatiuely caſt beyonde the Moone: but he is a ſimple Temporiſer, that would attempt to raiſe a fantaſticall, or putatiue opinion in an actiue worlde: and who ſo kindly cooſeneth himſelfe, as he that ſeeketh a cloak, to co<g ref="char:EOLhyphen"/>uer his owne ſluggiſh Idleneſſe, or vnweeldy inſufficiency? Let them affect myſticall commendation, that profeſſe occult Philo<g ref="char:EOLhyphen"/>ſophy: and let them crosbite themſelues, that can finde no other Conny-catchers, to play that part. It was a principall Maxim in <hi>Socrates</hi> diſcipline, That euery one ſhould contend to be indeede, whatſouer he would couet to ſeeme in apparance: ſome that haue often recommended that Maxim vnto other, and often called it the ſoueraine Rule of ſound, and honourable proceeding; were ne<g ref="char:EOLhyphen"/>uer forwarder to allow his precept in diſcourſe, then ready to fol<g ref="char:EOLhyphen"/>low his example in practiſe. There bee other inough, to make a gallant ſhow: and ſome trim fellowes, will not ſtick to maintaine a braue Paradoxe, that the opinion, and ſemblaunce of thinges, neither euer was, nor is now, inferiour to the very thinges them<g ref="char:EOLhyphen"/>ſelues: but in preferment and reputation many times ſuperiour. I am not here to argue the caſe: Fortune is a fauourable Lady to ſome forward aduenturers: they may eaſely ſwim, that are holden vp by the chinne: ſuch, &amp; ſuch haue liued in eſtimation, &amp; pur<g ref="char:EOLhyphen"/>chaſed landes: but what did they euer effectuate of any worth: or wherin appered ther ſufficiency, to diſcharg any weighty function, or to performe any notable act? A reed is a ſory ſtaffe: &amp; Fortune as changeable, as the Moone: no counterfeit, or pretended com<g ref="char:EOLhyphen"/>mendation endureth long: only deſert holdeth-out infallibly, when
+<pb n="55" facs="tcp:4033:29"/>
+many a goodly gentleman be<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hreweth himſelfe: I muſt not ſtand vpon particularities: no Education to the Trainement of <hi>Cy<g ref="char:EOLhyphen"/>rus:</hi> nor any proceding, to the emploiment of <hi>Ceſar.</hi> Pregnant Rules auail much: but viſible Examples amount incredibly: Ex<g ref="char:EOLhyphen"/>perience, the onely life of perfection, &amp; onely perfection of life. Whatſoeuer occaſion cauſeth me to be miſtaken, as ouer-much ad<g ref="char:EOLhyphen"/>dicted to Theory, without reſpect of action: (for that is one of the eſpecialleſt points, which I am importuned to reſolue:) I neuer made account of any ſtudy, meditation, conference, or Exerciſe, that importeth not effectual vſe, &amp; that aymeth not altogether at action: as the ſinguler marke, whereat euery Arte, &amp; euery ver<g ref="char:EOLhyphen"/>tue is to leuell. I loue Method: but honour Practiſe: muſt I ſhew the difference? Either Arte is obſcure, or the quickeſt capacity dull: and needeth Methode, as it were the bright Moone, to illuminate the darkeſome night: but Practiſe is the bright Sun, that ſhineth in the day, &amp; the ſoueraigne Planet, that gouerneth the world: as elſe-where I haue copiouſly declared. To excell, ther is no way but one: to marry ſtudious Arte to diligent Exerciſe: but where they muſt be vnmarried, or diuorced, geue me rather Exerciſe without Arte, then Arte without Exerciſe. Perfect vſe worketh maſteries: and diſgraceth vnexperienced Arte. Exam<g ref="char:EOLhyphen"/>ples are infinite: and dayly diſplay themſelues. A world without a Sunne: a Boddy without a Soule: Nature without Arte: Arte without Exerciſe: ſory creatures. Singular practiſe the only ſin<g ref="char:EOLhyphen"/>guler, and admirable woorkeman of the world. Muſt I diſpatch the reſt, that is exacted? It is no fit place: and the leaſt little wil ſeme too-much. As in other thinges, ſo in Artes, formality doth well: but materiality worketh the feat. Were Artiſts as skillfull, as Artes are powerfull, wonders might be atchieued by Arte em<g ref="char:EOLhyphen"/>prooued: but they that vnderſtand little, write much: and they that know much, write little. The vayne Peacocke, with his gay coullours, and the pratling Parrat with his ignorant diſcourſes,
+<pb n="56" facs="tcp:4033:30"/>
+(I am not to offend any, but the Peacocke, and the Parrat) haue gariſhly diſguiſed the worthieſt Artes, and deepely diſcredited the profoundeſt Artiſtes, to the pitifull defacement of the one, and the ſhamefull preiudice of the other. <hi>Rodolph Agricola, Philip Melancthon, Ludouike Viues, Peter Ramus,</hi> and diuers excellent ſchollers, haue earneſtly complaned of Artes corrupted, and notably reformed many abſurdities: but ſtill corruption in<g ref="char:EOLhyphen"/>gendreth one vermine or other: and ſtill that pretious Traine<g ref="char:EOLhyphen"/>ment is miſerably abuſed, which ſhould be the fountaine of skill, the roote of vertue, the ſeminary of gouernment, the foundation of all priuate, and publike good. The Methodiſt, &amp; Diſcouſer might be more materiall: the Theoriſt, and Practitioner more formall: all fower more effectuall: or how commeth it to paſſe, that much more is profe ſſed, but much leſſe perfourmed, then in former ages? eſpecially in the Mathematikes, and in naturall Magic: which beeing cunningly and extenſiuely imployed (after the manner of <hi>Archimedes, Archytas, Apollonius Regiomontanus, Bacon, Cardan,</hi> and ſuch like induſtrious Philoſophers, the Secretaries of Art, and Nature,) might won<g ref="char:EOLhyphen"/>derfully beſtead the Commonwealth: with many puiſſant engins, and other commodious deuiſes, for warre, and peace. In actuall Experimentes, and Polymechany, nothing too-profound: a ſuper<g ref="char:EOLhyphen"/>ficiall ſlightneſſe, may ſeeme fine for ſheetes, but proueth good for nothinge: as in other buſineſſe, ſo in learninge, as good neuer a whit, according to the Prouerbe, as neuer the better: one perfect Mechanician worth ten vnperfect Philoſophers: an ignorant man leſſe ſhameth himſelf, leſſe beguileth his frend, leſſe diſableth the Common-wealth, then a putatiue Artiſte: a whole naturall wit more ſeruiceable, and more ſufficient, then a Demi-ſcholler: who preſuming on that, which he hath not, abateth the force of that, which he hath. He muſt not dreame of perfection, that em<g ref="char:EOLhyphen"/>proueth not the perfecteſt Art, with moſt perfect induſtrie. A
+<pb n="57" facs="tcp:4033:30"/>
+ſnatch, and away, with <hi>Neoptolemus,</hi> and the common ſort of ſtudentes, may pleaſe a little, but profiteth nothing. It is the Bo<g ref="char:EOLhyphen"/>dy, not the ſhadow, that diſpatcheth the buſineſſe. The flower de<g ref="char:EOLhyphen"/>lighteth to-day, and fadeth to-morrow: the fruite edifieth, and endureth: the viſard, the painted ſheath, and ſuch terrible bra<g ref="char:EOLhyphen"/>ueries, can beſt report their owne entertainment: the peacock, and the parrat haue good leaue to prancke vppe themſelues, and leyſure inough to reuiue, and repoliſh their expired workes. What can laſt allwayes, quoth the neat Tayler, when his ſine ſeames be<g ref="char:EOLhyphen"/>gan to cracke their credite at the firſt drawing-on. I appeale to Poules Churchyard, whether lines be like vnto ſeames: and whe<g ref="char:EOLhyphen"/>ther the Deft writer be as ſure a workeman, as the neat Taylor. There may be a fault in the Reader, aſwell as in the weauer: but euery manne contente himſelfe, to beare the burthen of his owne faultes: and good ſweete Autors infourme your ſelues, before you vndertake to inſtruct other. Excellent effectes muſt ſlow from the ſpring of excellent cauſes: and nothing notable without notable Endeuour. The Print is abuſed, that abuſeth: and earneſtly be<g ref="char:EOLhyphen"/>ſeecheth flouriſhing writers, not to trouble the Preſſe, but in caſe of vrgent occaſion, or important vſe. Or if you conceiue extraor<g ref="char:EOLhyphen"/>dinarily of your owne pregnancy: and will needes imploy your youthfull Tallent: remember, that corruptions in manners, and abſurdities in Arte, haue too-lately ouerflowed the banckes of all good Modeſtly, and diſcretion. Hee that hath but halfe an Eie, can ſee no leſſe: &amp; he that hath but halfe a Tonge, may ſay more: I onely note by the way, that hindereth many a gallant wit in the way: and without empeachment to any, wiſh all rather to be ex<g ref="char:EOLhyphen"/>cellent, with <hi>Socrates,</hi> then to ſeeme famous, with the Philoſo<g ref="char:EOLhyphen"/>pher of the Court. My meaning is not, to teach, but to touch: &amp; albeit I haue curſorily ſpoken ſomethinge for my ſelfe, and ſome<g ref="char:EOLhyphen"/>thing as it were againſt other; yet the one little, and the other leſſe, are both vttered with a mind, that will rather excuſe other,
+<pb n="58" facs="tcp:4033:31"/>
+then my ſelfe; and rather accuſe my ſelfe, then other: whereſoe<g ref="char:EOLhyphen"/>uer I find the leaſt reaſon for them, or the leaſt cauſe againſt my ſelfe: and if in any thing I am any thing, it is in nothing ſo much, as in a zealous deſire, to ſee Learning flouriſh: Vertue proſper: the good proceede from better to better: the bad amend: the Bo<g ref="char:EOLhyphen"/>dy cherriſh the members: the Members tender the body: all ge<g ref="char:EOLhyphen"/>nerally maintaine Concord with all: euery one particularly nur<g ref="char:EOLhyphen"/>riſh accord with euery one. Howbeit at this inſtant I muſt craue licence, to ſtand vpon ſuch tearmes, not as I would moſt willing<g ref="char:EOLhyphen"/>ly chooſe, but as the preſent occaſion forcibly ſuggeſteth. No man loather, to miniſter the leaſt, or to take the greateſt occaſion of pu<g ref="char:EOLhyphen"/>blike contention, or priuate diſcontentment: choler is as ſoone in<g ref="char:EOLhyphen"/>flamed, as flaxe; and ſmall ſparkles of diſſention, haue kindled horrible fires of faction: there be wrangling, &amp; quarreling hoat<g ref="char:EOLhyphen"/>ſpurres inough, though I be none: <hi>Ignis fatuus</hi> neuer ſo ſpritiſh<g ref="char:EOLhyphen"/>ly buſy: neuer ſo many threatning Comets: neuer ſuch a terrible sky of Blaſing, and falling stars: neuer ſuch luſty ſtirring of liue<g ref="char:EOLhyphen"/>ly coales, and dead cinders: euery Martin Iunior, and Puny Pierce, a monarch in the kingdome of his owne humour: euery pert, and crancke wit, in one odd veine, or other, the onely man of the Vniuerſity, of the Citty, of the Realme, for a flouriſh or two: who but he, in the fluſh of his ouerweening conceit? giue him his peremptory white rod in his hand, and God-night all diſtinction of perſons, and all difference of estates: his Pen is his mace, his launce, his two-edged ſword, his ſcepter, his Hercules club: and will beare a predominant ſway, in deſpight of vaineglorious Ti<g ref="char:EOLhyphen"/>tles, and ambitious Degrces. Lordes muſt take heede, how they Lord-it in his preſencc: but he forſooth may play the Lord Great-Maiſter, <hi>cum gratia:</hi> &amp; a ſawcy Sophister take vpon him, like a mighty Tyrant, <hi>cum Priuilegio.</hi> God helpe, when Ignorance, and want of Experience, vſurping the chayre of ſcrupulous, and rigorous Iudgement, will in a fantaſticall Imagination, or per<g ref="char:EOLhyphen"/>caſe
+<pb n="59" facs="tcp:4033:31"/>
+in a melancholy moode, preſume farther, by infinite degrees, then the learnedeſt men in a ciuill Common-wealth, or the ſageſt counſellours in a Princes Court. Our new-new writers, the Load<g ref="char:EOLhyphen"/>stones of the Preſſe, are wonderfully beholdinge to the Aſſe; in a manner the onely Autor, which they alledge: the world was euer full inough of fools, but neuer ſo full of Aſſes in print: the very E<g ref="char:EOLhyphen"/>lephant, a great Aſſe: the Camell, a huge Aſſe: the Beare, a mon<g ref="char:EOLhyphen"/>ſtrous Aſſe: the Horſe, an abſurd Aſſe: the Fox himſelfe, a little Aſſe, or for variety, an Ape: who not an Aſſe, or an Ape in good plaine Engliſh, that chanceth to come in the wiſe Aſſe-makers, &amp; mighty Ape-dubbers way? they are fine men, &amp; haue many ſweete phraſes: it is my ſimplicity, that I am ſo ſlenderly acquainted with that dainty stile; the only new faſhion of current Eloque<g ref="char:cmbAbbrStroke">̄</g>ce in Eſſe: far ſurpaſsing the stale vein of <hi>Demoſthenes,</hi> or <hi>Tully: Iewel,</hi> or <hi>Harding: Whitgift,</hi> or <hi>Cartwright: Sidney,</hi> or <hi>Spencer.</hi> But I could wiſh, Ignorance would fauour it ſelfe: &amp; it were not amiſſe, that want of Experience ſhould be content to be a little mo<g ref="char:EOLhyphen"/>deſt, or ſomewhat quiet: &amp; both enforce les occaſion to be termed, as they will needes notoriouſly proclaime themſelues: as it were, with a publike Oh-is, or a generall <hi>Nouerint vniuerſi per prae<g ref="char:EOLhyphen"/>ſentes.</hi> For if any thing indeede, be a right Aſſe in print, it is the one: and if any thing indeede, be a right Calſe in print, it is the other: Ignorance, the famouſest Aſſe; and want of Experience, the notableſt Calfe in the world: Yet the one, the terrible controwler: the other the ſinguller Refourmer of the world: both, the buſiest aduenturers, and dowteeſt doers in a world. They trouble many much: ſome exceedingly: themſelues most: mee little: who can very well leaue them to the iollity of their owne ſwinge: or onely pray them to stay the nimble courſe of their forwarde wiſdomes, till they haue ſoberly reade, and hearde a little, and a little more: (for I wis ſomething reſteth vnconſidered:) and till they haue effectually ſeene, and tried a great-deale, and a great-deale more:
+<pb n="60" facs="tcp:4033:32"/>
+(for much remaineth vnaprooued:) I loue not to ſollicite them greatly, that loue to importune all other exceſsiuely: that little I haue done, I haue done compelled, and would wiſh vndone, rather then any ſtorme of Dcbate, or the leaſt fit of Mallice ſhould inſue thereof: let them glory in Pen-ſcolding, and Paper-brabling, that liſt: I muſt not, I cannot, I will not: I hate to intend ſuch arrant paltry, not for feare, but for contempt, not for laſineſſe, but for weightier buſineſſe: good honeſt youthes ſpare an olde Truante, meeter now to play the Dumme Dog, with ſome auncientes, then the bauling Cur, or the hiſsing Snake, with you ſpringals: a thou<g ref="char:EOLhyphen"/>ſand Examples pierce deepe, and ouer-ſenſibly teach me the miſe<g ref="char:EOLhyphen"/>rable inconuenience of ſuch miſchiefe, and the miſerable miſchief of ſuch inconuenience: better a pecke of troubles, then a load of a<g ref="char:EOLhyphen"/>gonies: no plague to irkeſome vengeance: no ioy, or treaſure to in duſtrious imploiment: no felicity, to a commodious intercourſe of ſweete ſtudy, ſweeter conuerſation, and ſweeteſt action: that wanteth, muſt be ſupplied, as ſufficient as it may: extraordina<g ref="char:EOLhyphen"/>ry incombrances little neede: Time is pretious, and would not be prodigally waſted in waſt<g ref="char:punc">▪</g> paper, or contemptuouſly thruſt out by the ſhoulders: my firſt Letter, was in a manner voluntary: my ſecond, in ſort neceſſary: this, wholy ſuperfluous, but violently extorted after the rest: all wearyſome vnto me; but this most te<g ref="char:EOLhyphen"/>dious: and any thing more, would ſeeme intollerable: Eſpecially in the Inuectiue veine: the little Fury of this Age, &amp; great In<g ref="char:EOLhyphen"/>cendiary of the world: whoſe vnmeaſurable outrage I would ra<g ref="char:EOLhyphen"/>ther mittigate with twenty Inſinuatiue, &amp; perſuaſiue Orations, then any-way aggrauate with one Offenſiue, or defenſiue Letter. Some Comicall Iars may be endured: but no act ſo ioyfull, as the Plaudite: &amp; whatſoeuer the beginning happeneth to be, I would allwayes wiſh a pleaſant, or amicable end: the ſcope whereat I as dilligently aime, as any, that moſt religiouſly affecteth vnity. Only my determination is, rather to be a Sheepe in Wolfes printe, then
+<pb n="61" facs="tcp:4033:32"/>
+to ſuffer my ſelfe, or my deereſt frendes, to be made Sheepe in the wolfes walke: and onely my requeſt is, that euery diſcreete, and courteous minde, will as conſiderately weigh the cauſe, as cenſo<g ref="char:EOLhyphen"/>riouſly note the effect. I hope, there neither is, nor ſhalbe any de<g ref="char:EOLhyphen"/>fault committed, but may in conuenient time bee redreſſed with ſome reaſonable amendes: vntill which time, I am not to dedi<g ref="char:EOLhyphen"/>cate any thing vnto any perſonage of name; but a mind, affectio<g ref="char:EOLhyphen"/>nately deſirous to honour the worthieſt: to reuerence the wiſest: to commend the learnedeſt: to embrace the beſt: to appeaſe the worſt: to iniury none: to render euery one, the vttermoſt of his deſart, or other quality. Which mind I entierly recommend vnto you all: and you all vnto God: whome I beſeech, to accompliſh that, which I cannot effect: and euen to worke a miracle vppon the deaſe.</p>
+            <closer>
+               <dateline>London: <date>this <hi>11.</hi> and <hi>12.</hi> of September.</date>
+               </dateline>
+
+               <signed>Your affectionate frend, G. H.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <head>GREENES MEMORIALL, OR certaine Funerall Sonnets.</head>
+            <head type="sub">To the foreſaid Maiſter Emmanuell Demetrius, Maiſter Chriſtopher Bird, and all gentle vvits, that vvill vourſafe the reading.</head>
+            <div n="1" type="poem">
+               <head>SONNET I.</head>
+               <head type="sub">His Repentance, that meant to call Greene to his aunſweare.</head>
+               <lg>
+                  <l>ALas that I ſo haſtely ſhould come,</l>
+                  <l>To terrifie the man with fatall dread,</l>
+                  <l>That deemed quiet Pennes, or dead, or dum,</l>
+                  <l>And ſtoutly knock't poore Silence on the head.</l>
+                  <l>Enough can ſay: dead is the Dog of ſpite:</l>
+                  <l>I, that for pitie praiſed him aliue,</l>
+                  <l>And ſmil'd to heare him gnar, and ſee him bite,</l>
+                  <l>
+                     <pb n="62" facs="tcp:4033:33"/>
+Am not with ſory carcaſſes to ſtriue.</l>
+                  <l>The worſt I liſt of Famous him report:</l>
+                  <l>Poules hath the Onely Pregnant Autor loſt:</l>
+                  <l>Aihme, quoth Wit in lamentable ſort,</l>
+                  <l>VVhat worthy wight ſhall now commaund the roſt?</l>
+                  <l>Fame heard the plaint: and pointed at A man,</l>
+                  <l>As greene as Greene, and white as whiteſt Swanne.</l>
+               </lg>
+            </div>
+            <div n="2" type="poem">
+               <head>SONNET II.</head>
+               <head type="sub">His misfortun, in being ſpitefully iniuried by ſome, whom he partially commended.</head>
+               <lg>
+                  <l>VNlucky I, vnhappieſt on Earth,</l>
+                  <l>That fondly doting vpon dainty witts,</l>
+                  <l>And deepely rauiſh'd with their luring fitts,</l>
+                  <l>Of gentle fauours find ſo hard a Dearth.</l>
+                  <l>Is it my Fate, or Fault, that ſuch fine men</l>
+                  <l>Should their Commender ſo vnkindly bite?</l>
+                  <l>That looues to looue, in ſpite of rankeſt Spite,</l>
+                  <l>And hates to hate, with Hart, or Tongue, or Pen.</l>
+                  <l>Sweet Writers, as yee couet to be ſweet,</l>
+                  <l>Nor me, nor other, nor your ſelues abuſe:</l>
+                  <l>Humanity doth courteouſly peruſe</l>
+                  <l>Ech act of frend, or foe, with fauour meet.</l>
+                  <l>Foule Diuel, and fouler Malice ceaſe to raue:</l>
+                  <l>For euery fault I twenty pardons craue.</l>
+               </lg>
+            </div>
+            <div n="3" type="poem">
+               <head>SONNET III.</head>
+               <head type="sub">His admonition to Greenes Companions.</head>
+               <lg>
+                  <l>THe flouriſhing, and gaily-ſpringing wight,</l>
+                  <l>That vainely me prouok'd with vile reproch,</l>
+                  <l>
+                     <pb n="63" facs="tcp:4033:33"/>
+Hath done his worſt, and hath no more to broche:</l>
+                  <l>Maugre the Diuell of villanous deſpite.</l>
+                  <l>I cannot raile, what-euer cauſe to raile:</l>
+                  <l>For Charity I louingly imbrace,</l>
+                  <l>That me for Enuy odiouſly deface:</l>
+                  <l>But in their higheſt rage extreamely faile.</l>
+                  <l>I can doe him no harme, that is in Heauen:</l>
+                  <l>I can doe him no good that is in Hell:</l>
+                  <l>I wiſh the beſt to his Suruiuours fell,</l>
+                  <l>Deepely acquainted with his Six: and Seauen.</l>
+                  <l>O be not like to Death, that ſpareth none:</l>
+                  <l>Your greeneſt Flower, and Peacockes taile is gone.</l>
+               </lg>
+            </div>
+            <div n="4" type="poem">
+               <head>SONNET IIII.</head>
+               <head type="sub">The miſerable end of wilfull deſperatneſſe.</head>
+               <lg>
+                  <l>THe iolly Fly diſpatch'd his ſilly ſelfe:</l>
+                  <l>What Storyes quaint of many a douty Fly,</l>
+                  <l>That read a Lecture to the ventrous Elfe?</l>
+                  <l>Yet he will haue his luſty ſwing, to dy.</l>
+                  <l>Currage, and ſturring witt in time do well:</l>
+                  <l>But that ſame obſtinate Deſperation,</l>
+                  <l>A furious fiend of ſelfe-deuouring Hell,</l>
+                  <l>Ruſhing with terrible Commination,</l>
+                  <l>(What ſtorme ſo hideous, as Rages ſpell?)</l>
+                  <l>Concludes with horrible Lamentation:</l>
+                  <l>Each bleſſed tongue accurſe malediction,</l>
+                  <l>The vgly mouth of ruthfull confuſion.</l>
+                  <l>Nothing ſo doulcely ſweete, or kindly deare,</l>
+                  <l>As ſugredlippes, and Harts delicious cheare.</l>
+               </lg>
+            </div>
+            <div n="5" type="poem">
+               <pb n="64" facs="tcp:4033:34"/>
+               <head>SONNET V.</head>
+               <head type="sub">The learned ſhould louingly affect the learned.</head>
+               <lg>
+                  <l>I Am not to inſtruct, where I may learne:</l>
+                  <l>But where I may perſuaſiuely exhort,</l>
+                  <l>Nor ouer-diſſolute, nor ouer<g ref="char:punc">▪</g>ſterne,</l>
+                  <l>A curteous Honeſty I would extort.</l>
+                  <l>Good loathes to damage, or vpbraid the good:</l>
+                  <l>Gentle how loouely to the gentle wight?</l>
+                  <l>Who ſeeith not, how euery blooming budd</l>
+                  <l>Smileth on euery flower fairely dyght,</l>
+                  <l>And biddeth fowle illfauordneſſe Godnight?</l>
+                  <l>Would Alciats Embleme, or ſum ſcarlet whood.</l>
+                  <l>Could teach the Pregnant ſonnes of ſhiny Light,</l>
+                  <l>To interbrace each other with delight.</l>
+                  <l>Fine Mercury conducts a dainty band</l>
+                  <l>Of Charites, and Muſes, hand in hand.</l>
+               </lg>
+            </div>
+            <div n="6" type="poem">
+               <head>SONNET VI.</head>
+               <head type="sub">His Pallace of pleaſure.</head>
+               <lg>
+                  <l>I Wott not what theſe cutting Huffe-ſnuffes meane:</l>
+                  <l>Of Ale-houſe-daggers I haue little skill:</l>
+                  <l>I borrow not my phraſe of knaue, or queane,</l>
+                  <l>But am a dettour to the Ciu<g ref="char:cmbAbbrStroke">̄</g>ill quill.</l>
+                  <l>It is reſtoratiue vnto my hart,</l>
+                  <l>To heare how gentle Cheeke, and Smith conuers'd:</l>
+                  <l>No daintier peece of delic ateſt, Art,</l>
+                  <l>Then cordiall Stories charmingly rehears'd,</l>
+                  <l>That whilom rudeſt wooddes, and stonesamperc'd.</l>
+                  <l>Who now beginnes that amiable part?</l>
+                  <l>
+                     <hi>Haddon</hi> farewell: and <hi>Aſcham</hi> thou art stale,</l>
+                  <l>
+                     <pb n="65" facs="tcp:4033:34"/>
+And euery ſweetenes taſtes of bitter bale.</l>
+                  <l>Oh, let me liue to interuiew the face</l>
+                  <l>Of faire Humanity, and bounteous Grace.</l>
+               </lg>
+            </div>
+            <div n="7" type="poem">
+               <head>SONNET VII.</head>
+               <head type="sub">His vnfained wiſh.</head>
+               <lg>
+                  <l>NEuer <hi>Vlyſſes,</hi> or <hi>Aeneas</hi> tyr'd,</l>
+                  <l>With toyling trauailes, and huge afflictions:</l>
+                  <l>As arrant penne, and wretched page bemyr'd</l>
+                  <l>With naſty filth of rancke-maledictions.</l>
+                  <l>I ſeldome call a ſnarling Curr, a Curr:</l>
+                  <l>But wiſh the gnarring dog, as ſweete a mouth,</l>
+                  <l>As brauest horſe, that feeleth golden ſpurr:</l>
+                  <l>Or ſhrilleſt Trompe, that ſoundeth North, or South:</l>
+                  <l>Or moſt enchaunting Sirens voice vncouth.</l>
+                  <l>Selfe-gnawing Harts, and gnaſhing Teeth of murr,</l>
+                  <l>How faine would I ſee <hi>Orpheus</hi> reuiu'd,</l>
+                  <l>Or <hi>Suadas</hi> hoony-bees in you rehiu'd?</l>
+                  <l>O most-delicious hoony-dewes, infuſe</l>
+                  <l>Your daintiest influence into their Muſe.</l>
+               </lg>
+            </div>
+            <div n="8" type="poem">
+               <head>SONNET VIII.</head>
+               <head type="sub">A Continuation of the ſame wiſh.</head>
+               <lg>
+                  <l>LEt them forgett their cancred peeuiſhnes:</l>
+                  <l>And ſay to Choller fell; Thou wert our fall:</l>
+                  <l>Hadſt thou not boilde in fretting waywardnes,</l>
+                  <l>We might haue laught at Fortunes toſsing Ball.</l>
+                  <l>Choler, content thy malecontented ſelfe:</l>
+                  <l>And cleerest Humour of right Sanguine pure,</l>
+                  <l>Neately refin'd from that felonious Elfe,</l>
+                  <l>
+                     <pb n="66" facs="tcp:4033:35"/>
+With Iouiall graciouſnes thy ſelfe enure.</l>
+                  <l>If euer ſiluer conduictes were abroche</l>
+                  <l>Of streaming Witt, and flowing Eloquence:</l>
+                  <l>Yee fludds of milke, and hoony reapproche,</l>
+                  <l>And bounteouſly poure-out your Quinteſſence.</l>
+                  <l>Gently aſſemble Delicacies all,</l>
+                  <l>And ſweetely nectarize this bitter gall.</l>
+               </lg>
+            </div>
+            <div n="9" type="poem">
+               <head>SONNET IX.</head>
+               <head type="sub">His reuiuall of a former motion: added at the inſtance of an eſpéciall friend.</head>
+               <lg>
+                  <l>VVEre I as meete, as willing to aduiſe:</l>
+                  <l>I would in amicable termes entreat</l>
+                  <l>Some forward witts to change their headlong guiſe,</l>
+                  <l>And leſſe in print, and more in mint to ſweat.</l>
+                  <l>Pithagoras, <hi>and</hi> Apollonius <hi>ſage,</hi>
+                  </l>
+                  <l>Two woonders of capacity diuine;</l>
+                  <l>Trained their followers to temper rage,</l>
+                  <l>And Tongue with curious ſilence to refine.</l>
+                  <l>There is a Time to ſpeake: a Time to write:</l>
+                  <l>But bleſſed be the Time, that ſees, and heares:</l>
+                  <l>Let Petty Starres ſuppreſſe their twinckling light:</l>
+                  <l>And glorious Sunne aduance his beamy peeres.</l>
+                  <l>O you of golden mould, that ſhine like Sun.</l>
+                  <l>Diſplay your heauenly giftes: and I haue dun.</l>
+               </lg>
+            </div>
+            <div n="10" type="poem">
+               <head>SONNET X.</head>
+               <head type="sub">A more particular Declaration of his intention.</head>
+               <lg>
+                  <l>YEt let Affection interpret ſelfe:</l>
+                  <l>Arcadia <hi>braue, and dowty</hi> Faery Queene</l>
+                  <l>
+                     <pb n="67" facs="tcp:4033:35"/>
+Cannot be ſtain'd by <hi>Gibelin,</hi> or <hi>Guelph,</hi>
+                  </l>
+                  <l>Or goodlieſt Legend, that Witts eye hath ſeene.</l>
+                  <l>The dainty Hand of exquiſiteſt Art,</l>
+                  <l>And nimble Head of pregnanteſt receit,</l>
+                  <l>Neuer more finely plaid their curious part,</l>
+                  <l>Then in thoſe liuely Chriſtals of conceit.</l>
+                  <l>Other faire Wittes I cordially embrace:</l>
+                  <l>And that ſweete Muſe of azur Dy, admire:</l>
+                  <l>And muſt in euery Sonnet interlace</l>
+                  <l>The earthly Soueraine of heauenly fire.</l>
+                  <l>A fitter place remaineth to implore,</l>
+                  <l>Of deepeſt Artiſts the profoundeſt lore.</l>
+               </lg>
+            </div>
+            <div n="11" type="poem">
+               <head>SONNET XI.</head>
+               <head type="sub">His Deſire, to honour excellent perfections in the beſt.</head>
+               <head type="sub">An other addition, inſerted at the requeſt of one, that might commaunde.</head>
+               <lg>
+                  <l>BLacke Art auaunt: and Haile thriſe-grace-full Grace,</l>
+                  <l>That whiteſt white on Earth, or Heauen exceedes,</l>
+                  <l>In purity, and ſouerainety immenſe.</l>
+                  <l>Or locke my mouth: or ſchoole my infant-lippes,</l>
+                  <l>Reſplendent lightes of Milky Way to ſing,</l>
+                  <l>Rare ſubiectes of thy indulgence ſupreame.</l>
+                  <l>Yet what ſhould I conſpicuous Mirrours ſing,</l>
+                  <l>That radiantly diſplay their beauteous beames</l>
+                  <l>Of gliſtring Vertue, and reſhining Witt:</l>
+                  <l>The Luminaries great of little world?</l>
+                  <l>Folly impoſsibillities attempts:</l>
+                  <l>Aſtoniſhment ſuch brightneſſe beſt becummes:</l>
+                  <l>Or lend me Pegaſus, thy mounting winges:</l>
+                  <l>And let me heare, how quire of Angels ſinges.</l>
+               </lg>
+            </div>
+            <div n="12" type="poem">
+               <pb n="68" facs="tcp:4033:36"/>
+               <head>SONNET XII.</head>
+               <head type="sub">His Court of Honour.</head>
+               <lg>
+                  <l>VVEre fine <hi>Caſtilio,</hi> the Heire of Grace:</l>
+                  <l>What gallant port more graciouſly fine?</l>
+                  <l>As dainty <hi>Petrarch</hi> was ſweete <hi>Sirens</hi> ſonne:</l>
+                  <l>What witching tune more Orpheouſly ſweete?</l>
+                  <l>Him, him, the Idee high, and deepe Abyſſe</l>
+                  <l>Of noble Excellence I would proclaime.</l>
+                  <l>But what ſhould drowſy Muſe of Phantoms dreame?</l>
+                  <l>Caſt glauncing eie into Queene Pallas Court:</l>
+                  <l>And ſcorne the dimnes of thy dazeled ſight,</l>
+                  <l>Astound with Lord-and Lady-Graces view:</l>
+                  <l>Idees how high, Abyſſes how profounde</l>
+                  <l>Of valour braue, and admirable worth?</l>
+                  <l>Poore glimmering Gemmes, and twinckling Stars adieu:</l>
+                  <l>Here, here the Sun, and Moone of Honor true.</l>
+               </lg>
+            </div>
+            <div n="13" type="poem">
+               <head>SONNET XIII.</head>
+               <head type="sub">His interceſſion to Fame.</head>
+               <lg>
+                  <l>LIue euer valorous renowned Knightes:</l>
+                  <l>Liue euer <hi>Smith,</hi> and <hi>Bacon,</hi> Peereles men:</l>
+                  <l>Liue euer <hi>Walſingham,</hi> and <hi>Hatton</hi> wiſe:</l>
+                  <l>Liue euer <hi>Mildmayes</hi> honorable name.</l>
+                  <l>Ah, that Sir <hi>Humfry Gilbert</hi> ſhould be dead:</l>
+                  <l>Ah, that Sir <hi>Philip Sidney</hi> ſhould be dead:</l>
+                  <l>Ah, that Sir <hi>William Sackeuill</hi> ſhould be dead:</l>
+                  <l>Ah, that Sir <hi>Richard Grinuile</hi> ſhould be dead:</l>
+                  <l>Ah, that braue <hi>Walter Deuoreux</hi> ſhould be dead:</l>
+                  <l>Ah, that the Flowre of Knighthood ſhould be dead,</l>
+                  <l>Which, maugre deadlyeſt Deathes, and ſtonyeſt Stones,</l>
+                  <l>
+                     <pb n="69" facs="tcp:4033:36"/>
+That coouer worthieſt worth, ſhall neuer dy.</l>
+                  <l>Sweete Fame, adorne thy glorious Triumph new:</l>
+                  <l>Or Vertues all, and Honours all adieu.</l>
+               </lg>
+            </div>
+            <div n="14" type="poem">
+               <head>SONNET XIIII.</head>
+               <head type="sub">A repetition of the former Petition.</head>
+               <lg>
+                  <l>BVt Vertues all, and Honours all ſuruiue:</l>
+                  <l>And Vertues all, and Honours all inflame</l>
+                  <l>Braue mindes to platfourme, and redoubted handes</l>
+                  <l>To doe ſuch deedes, and ſuch exploites atchieue,</l>
+                  <l>As they, and they couragiouſly perform'd.</l>
+                  <l>Egregious men, and memorable Knightes:</l>
+                  <l>Ay memorable Knightes, whiles Sunne ſhall ſhine,</l>
+                  <l>And teach induſtrious Worth, to ſhine like Sunne:</l>
+                  <l>To liue in motion, and action hoat:</l>
+                  <l>To eternize Entelechy diuine:</l>
+                  <l>Where Plutarches Liues: where Argonautiques braue:</l>
+                  <l>Where all Heroique woonderments concurr.</l>
+                  <l>Oh, Oh, and Oh a thouſand thouſand times,</l>
+                  <l>That thirſty Eare might heare Archangels rimes.</l>
+               </lg>
+            </div>
+            <div n="15" type="poem">
+               <head>SONNET XV.</head>
+               <head type="sub">A continuation of the ſame Petition.</head>
+               <lg>
+                  <l>THen would I ſo my Melody addoulce,</l>
+                  <l>And ſo attune my Harmony to theirs,</l>
+                  <l>That felleſt Fury ſhould confeſſe her ſelfe</l>
+                  <l>Enchaunted mightily with charmes diuine:</l>
+                  <l>And in the ſweeteſt termes of ſacred Leagues,</l>
+                  <l>With pure deuotion reconcile her rage.</l>
+                  <l>Meane-while I ſeeke, and ſeeke, but cannot finde</l>
+                  <l>That Iewell rare of preciouſſeſt worth:</l>
+                  <l>
+                     <pb n="70" facs="tcp:4033:37"/>
+Gentle Accord, and ſoueraigne Repoſe,</l>
+                  <l>The Paradiſe of Earth, and bliſſe of Heauen.</l>
+                  <l>Be it in Earth, ô Heauen direct my courſe:</l>
+                  <l>Be it in Heauen alone, ô Earth Farewell.</l>
+                  <l>Or well-fare Patience, that ſweetens ſowre,</l>
+                  <l>And reares on Helliſh Earth an Heauenly Boure.</l>
+               </lg>
+            </div>
+            <div n="16" type="poem">
+               <head>SONNET XVI.</head>
+               <head type="sub">His profeſſed Diſdaine, to aunſweare vanity in ſome, <hi>or to enuy proſperity in any.</hi>
+               </head>
+               <lg>
+                  <l>SOme me haue ſpited with a cruell ſpite:</l>
+                  <l>But Fount of Mercy ſo reclenſe my ſinne,</l>
+                  <l>As I nor them maligne, nor any wight:</l>
+                  <l>But all good mindes affect, like deereſt kinne.</l>
+                  <l>Small cauſe I haue to ſcorne in any ſort:</l>
+                  <l>Yet I extreamely ſcorne to aunſweare ſome,</l>
+                  <l>That baniſh Conſcience from their report,</l>
+                  <l>And ouerwantonly abuſe the dumme.</l>
+                  <l>God keepe Low-Countrymen from high Diſdaine:</l>
+                  <l>Yet I diſdaine with haughtieſt contempt</l>
+                  <l>To enuy any perſons Fame, or Gaine:</l>
+                  <l>Or any crooked practiſe to attempt.</l>
+                  <l>Ieſu, that we ſhould band, like Iohn Oneale,</l>
+                  <l>That tenderly ſhould melt in mutuall zeale.</l>
+               </lg>
+            </div>
+            <div n="17" type="poem">
+               <head>SONNET XVII.</head>
+               <head type="sub">His exhortation to attonement and Loue.</head>
+               <lg>
+                  <l>O Mindes of Heauen, and wittes of higheſt Sphere,</l>
+                  <l>Molten moſt-tenderly in mutuall zeale:</l>
+                  <l>Each one with cordiall indulgence forbeare,</l>
+                  <l>And Bondes of Loue reciproquely enſeale.</l>
+                  <l>
+                     <pb n="71" facs="tcp:4033:37"/>
+No roſe, no violet, no fragrant ſpice,</l>
+                  <l>No Nectar, no Ambroſia ſo ſweet:</l>
+                  <l>As gratious Looue, that neuer maketh nice,</l>
+                  <l>But euery one embraceth, as is meet.</l>
+                  <l>Magnes, and many thinges attractiue are:</l>
+                  <l>But nothing ſo allectiue vnder skyes,</l>
+                  <l>As that ſame dainty amiable Starre,</l>
+                  <l>That none, but griſly mouth of Hell, defyes.</l>
+                  <l>That Starre illuminate celeſtiall Harts:</l>
+                  <l>And who, but Rancour, feeleth irkeſome ſmarts?</l>
+               </lg>
+            </div>
+            <div n="18" type="poem">
+               <head>SONNET XVIII.</head>
+               <head type="sub">Iohn Harueys Welcome to Robert Greene.</head>
+               <lg>
+                  <l>COme fellow <hi>Greene,</hi> come to thy gaping graue:</l>
+                  <l>Bidd Vanity, and Foolery farewell:</l>
+                  <l>Thou ouer-long haſt plaid the madbrain'd knaue:</l>
+                  <l>And ouer-lowd haſt rung the bawdy bell.</l>
+                  <l>Vermine to Vermine muſt repaire at laſt:</l>
+                  <l>No fitter houſe for buſy folke to dwell:</l>
+                  <l>Thy Conny-catching Pageants are paſt:</l>
+                  <l>Some other muſt thoſe arrant Stories tell.</l>
+                  <l>Theſe hungry wormes thinke long for their repaſt:</l>
+                  <l>Come on: I pardon thy offence to me:</l>
+                  <l>It was thy liuing: be not ſo aghaſt:</l>
+                  <l>A Foole, and Phiſition may agree.</l>
+                  <l>And for my Brothers, neuer vex thy ſelfe:</l>
+                  <l>They are not to diſeaſe a buried Elfe.</l>
+               </lg>
+            </div>
+            <div n="19" type="poem">
+               <head>SONNET XIX.</head>
+               <head type="sub">His Apology of himſelfe, and his brothers.</head>
+               <lg>
+                  <l>YEt fie on lies, and fie on falſe Appeales:</l>
+                  <l>No Miniſter in England leſſe affectes</l>
+                  <l>
+                     <pb n="72" facs="tcp:4033:38"/>
+Thoſe wanton kiſſes, that leaud folly ſteales,</l>
+                  <l>Then Hee, whome onely Ribaldry ſuſpectes.</l>
+                  <l>Were I a foole, (what man playes not the foole?</l>
+                  <l>The world is full of fooles, and full of ſectes:)</l>
+                  <l>Yet was Iohn neuer ſpoyled with the toole,</l>
+                  <l>That Richard made: and none, but none infectes.</l>
+                  <l>The third is better knowne in Court, and Schoole,</l>
+                  <l>Then thy vaine Quipp, or my Defence ſhalbe:</l>
+                  <l>Whoſe Eie, but his, that ſitts on Slaunders ſtoole,</l>
+                  <l>Did euer him in Fleete, or Priſon ſee?</l>
+                  <l>Lowd Mentery ſmall confutation needes:</l>
+                  <l>Auaunt black Beaſt, that ſowes ſuch curſed ſeedes.</l>
+               </lg>
+            </div>
+            <div n="20" type="poem">
+               <head>SONNET XX.</head>
+               <head type="sub">His Apology of his good Father.</head>
+               <lg>
+                  <l>AH my deere Father, and my Parent ſweete,</l>
+                  <l>Whoſe honeſty no neighbour can empeach:</l>
+                  <l>That any Ruffian ſhould in termes vnmeete,</l>
+                  <l>To your diſcredite ſhamfully outreach.</l>
+                  <l>O rakehell Hand, that ſcribled him a knaue,</l>
+                  <l>Whome neuer Enemy did ſo appeach:</l>
+                  <l>Repent thy wicked ſelfe, that ſo didſt raue,</l>
+                  <l>And cancell that, which Slaunders mouth did teach.</l>
+                  <l>Nor euery man, nor euery trade is braue:</l>
+                  <l>Mault, haires, and hempe, and ſackcloth muſt be had:</l>
+                  <l>Truth him from odious imputations ſaue:</l>
+                  <l>And many a gallant Gentleman more bad.</l>
+                  <l>Foure Sonnes, him coſt a thouſand pounds at leſt:</l>
+                  <l>Well may he fare: and thou enioy thy reſt.</l>
+               </lg>
+            </div>
+            <div n="21" type="poem">
+               <pb n="73" facs="tcp:4033:38"/>
+               <head>SONNET XXI.</head>
+               <head type="sub">His charitable hope<g ref="char:punc">▪</g> and their eternall repoſe.</head>
+               <lg>
+                  <l>LEt memory of groſe abuſes ſleepe:</l>
+                  <l>Who ouer-ſhooteth not in reckleſſe youth?</l>
+                  <l>Were ſinnes as redd, as reddeſt ſcarlet deepe,</l>
+                  <l>A penitentiall Hart preuenteth ruth.</l>
+                  <l>Well-wiſhing Charity preſumes the beſt:</l>
+                  <l>Nothing impoſsible to powrefull Trueth:</l>
+                  <l>Body to Graue; and Soule to Heauen addreſt,</l>
+                  <l>Leaue vpon Earth, the follies of their youth.</l>
+                  <l>Some Penury bewaile: ſome feare Arreſt:</l>
+                  <l>Some Parmaes force: ſome Spanyardes gold addread:</l>
+                  <l>Some vnderly the terrible inqueſt:</l>
+                  <l>Some carry a Ielous: ſome a climing Head.</l>
+                  <l>We that are dead, releas'd from liuing woes,</l>
+                  <l>Soundly enioy a long, and long Repoſe.</l>
+               </lg>
+            </div>
+            <div n="22" type="poem">
+               <head>SONNET XXII.</head>
+               <lg>
+                  <head>L'enuoy: or an Anſwere to the Gentleman, that drunke to Chaucer, vpon view of the former Sonnets, and other Cantos, in honour of cer<g ref="char:EOLhyphen"/>taine Braue men.</head>
+                  <l>SOme Tales to tell, would I a Chaucer were:</l>
+                  <l>Yet would I not euen-now an Homer be:</l>
+                  <l>Though Spencer me hath often Homer term'd:</l>
+                  <l>And Monſieur Bodine vow'd as much as he.</l>
+                  <l>Enuy, and Zoilus, two buſy wightes:</l>
+                  <l>No petty ſhade of Homer can appeere,</l>
+                  <l>But he the Diuell, and ſhe his Dam diſplay:</l>
+                  <l>
+                     <pb n="74" facs="tcp:4033:39"/>
+And Furies fell annoy ſweete Muſes cheere.</l>
+                  <l>Nor Martins I, nor Counter-martins ſquibb:</l>
+                  <l>Enough a doo, to cleere my ſimple ſelfe:</l>
+                  <l>Momus gainſt Heauen; and Zoilus gainſt Earth,</l>
+                  <l>A Quipp for Gibeline; and whip for Guelph.</l>
+                  <l>Or purge this humour: or woe-worth the State,</l>
+                  <l>That long endures the one, or other mate.</l>
+               </lg>
+               <div type="part">
+                  <head>Robertus Grenus, vtriuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Academiae Artium Magiſter, de Seipſo.</head>
+                  <l>ILle Ego, cui riſus, rumores, feſta, puellae,</l>
+                  <l>Vana libellorum ſcriptio, vita fuit:</l>
+                  <l>Prodigus vt vidi Ver, AEſtatem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> furoris,</l>
+                  <l>Autumno, atque Hyemi, cum Cane dico vale.</l>
+                  <l>Ingenij hullam; plumam Artis; fiſtulam Amandi;</l>
+                  <l>Ecquae non miſero plangat auena tono?</l>
+               </div>
+               <div type="part">
+                  <head>Gabriel Harueius, deſideratiſſimae animae Ioannis fratris.</head>
+                  <l>AT Iunioris erat, Seniori pangere carmen</l>
+                  <l>Funebre, ni Fati lex violenta vetet.</l>
+                  <l>Quid fruſtra exclamem, Frater, fraterrime Frater?</l>
+                  <l>Dulcia cuncta ab<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unt: tristia ſolamanent.</l>
+                  <l>Totus ego Funus, pullato ſquallidum amictu,</l>
+                  <l>Quamuis caelicolae, flebile dico Vale.</l>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:4033:39"/>
+                  <head>To the right worſhipfull, my ſingular good frend, M. Gabriell Haruey, Doctor of the Lawes.</head>
+                  <lg>
+                     <l>HAruey, the happy aboue happieſt men</l>
+                     <l>I read: that ſitting like a Looker-on</l>
+                     <l>Of thisworldes Stage, doeſt note with critique pen</l>
+                     <l>The ſharpe diſlikes of each condition:</l>
+                     <l>And as one careleſſe of ſuſpition,</l>
+                     <l>Ne fawneſt for the fauour of the great:</l>
+                     <l>Ne feareſt fooliſh reprehenſion</l>
+                     <l>Of faulty men, which daunger to thee threat.</l>
+                     <l>But freely doeſt, of what thee liſt, entreat,</l>
+                     <l>Like a great Lord of peereleſſe liberty:</l>
+                     <l>Lifting the Good vp to high Honours ſeat,</l>
+                     <l>And the Euill damning cuermore to dy.</l>
+                     <l>For Life, and Death is in thy doomefull writing:</l>
+                     <l>So thy renowme liues euer by endighting.</l>
+                  </lg>
+                  <closer>
+                     <dateline>Dublin: <date>this xviij. of Iuly: <hi>1586.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Your deuoted frend, during life, Edmund Spencer.</signed>
+                  </closer>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
